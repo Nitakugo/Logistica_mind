@@ -1,0 +1,330 @@
+﻿
+================================================================================
+ REPORTE EJECUTIVO : MATRIZ LOGISTICA
+ TERMINO BUSCADO: 'TRANSPORTE'
+================================================================================
+
+ [PILLAR LOGISTICO]: 1. SUPPLY CHAIN STRATEGIST
+-----------------------------------------------
+   - LIBRO: Administraci├│n y log├¡stica en la cadena de suministros ( etc.) (z-library.sk, 1lib.sk, z-lib.sk)
+     > [Pag 011] Contenido breve
+     > [Pag 011] PARTE UNO
+     > [Pag 011] PARTE DOS
+     > [Pag 011] PARTE TRES
+     > [Pag 011] PARTE CUATRO
+     > [Pag 011] EP├ìLOGO  397
+     > [Pag 011] ├ìNDICE  399
+     > [Pag 012] Contenido
+     > [Pag 012] PARTE UNO
+     > [Pag 013] PARTE DOS
+     > [Pag 015] PARTE TRES
+     > [Pag 015] PARTE CUATRO
+     > [Pag 024] Colaboraci├│n
+     > [Pag 024] Extensi├│n de la empresa
+     > [Pag 025] Proveedores de servicios integrados (ISP)
+     > [Pag 037] Log├¡stica
+     > [Pag 038] La log├¡stica de la empresa es grande e importante
+     > [Pag 041] Minimizaci├│n del costo
+     > [Pag 041] Generaci├│n del valor log├¡stico
+     > [Pag 042] Funciones de la log├¡stica
+     > [Pag 042] Procesamiento de pedidos
+     > [Pag 043] Inventario
+     > [Pag 044] Transporte
+     > [Pag 045] Almacenamiento, manejo de materiales y empacado
+     > [Pag 049] Disposiciones operativas log├¡sticas
+     > [Pag 049] Escalonada
+     > [Pag 068] Con´¼ü abilidad del servicio
+     > [Pag 109] Estrategias de fabricaci├│n
+     > [Pag 110] Costo total de fabricaci├│n
+     > [Pag 119] Sistemas de comunicaci├│n
+     > [Pag 119] Sistemas de ejecuci├│n
+     > [Pag 119] Sistemas de planeaci├│n
+     > [Pag 128] Sat├®lite
+     > [Pag 128] Procesamiento de im├ígenes
+     > [Pag 133] Dise├▒o de un sistema de informaci├│n de la cadena de suministro
+     > [Pag 145] Operaciones de la log├¡stica de la cadena de suministro
+     > [Pag 180] Resumen
+     > [Pag 180] Pol├¡ticas y par├ímetros
+     > [Pag 181] Preguntas desa´¼ü antes
+     > [Pag 182] Infraestructura del transporte
+     > [Pag 183] Funcionalidad, principios y participantes del transporte
+     > [Pag 183] Funcionalidad del transporte
+     > [Pag 184] Principios del transporte
+     > [Pag 184] Participantes del transporte
+     > [Pag 186] Regulaci├│n del transporte
+     > [Pag 187] Tipos de regulaci├│n
+     > [Pag 188] Historia de la regulaci├│n
+     > [Pag 193] Estructura del transporte
+     > [Pag 194] Transporte ferroviario
+     > [Pag 195] Transporte carretero
+     > [Pag 197] Transporte acu├ítico
+     > [Pag 198] Ductos
+     > [Pag 198] Transporte a├®reo
+     > [Pag 199] Clasi´¼ü caci├│n modal
+     > [Pag 200] Servicio de transporte
+     > [Pag 200] Transportistas tradicionales
+     > [Pag 200] Servicio de paqueter├¡a
+     > [Pag 202] Transporte intermodal
+     > [Pag 205] Intermediarios no operativos
+     > [Pag 206] Preguntas desa´¼ü antes
+     > [Pag 206] Resumen
+     > [Pag 207] Operaciones del transporte
+     > [Pag 208] Econom├¡a del transporte y determinaci├│n de precios
+     > [Pag 208] Impulsores econ├│micos
+     > [Pag 210] Determinaci├│n de costos
+     > [Pag 211] Estrategia en la determinaci├│n de costos del transportista
+     > [Pag 212] Tarifas y clasi´¼ü caci├│n
+     > [Pag 218] Administraci├│n del transporte
+     > [Pag 218] Administraci├│n operativa
+     > [Pag 220] Consolidaci├│n
+     > [Pag 222] Negociaci├│n
+     > [Pag 222] Control
+     > [Pag 223] Auditor├¡a y administraci├│n de reclamaciones
+     > [Pag 224] Integraci├│n log├¡stica
+     > [Pag 224] Documentaci├│n
+     > [Pag 224] Conocimiento de embarque
+     > [Pag 225] CONOCIMIENTO DE EMBARQUE DIRECTO UNIFORME
+     > [Pag 226] Preguntas desa´¼ü antes
+     > [Pag 226] Resumen
+     > [Pag 226] Factura del ´¼é ete
+     > [Pag 226] Mani´¼ü esto de embarque
+     > [Pag 228] Almacenamiento
+     > [Pag 229] Almacenamiento estrat├®gico
+     > [Pag 230] Bene´¼ü cios econ├│micos
+     > [Pag 239] Disposiciones de propiedad del almac├®n
+     > [Pag 239] Privados
+     > [Pag 254] Empacado para la e´¼ü ciencia en el manejo de materiales
+     > [Pag 254] Dise├▒o del empaque
+     > [Pag 255] Agrupaci├│n en una sola unidad
+     > [Pag 272] Capacidad de respuesta
+     > [Pag 272] Reducci├│n de la variaci├│n
+     > [Pag 272] Reducci├│n del inventario
+     > [Pag 272] Consolidaci├│n de un embarque
+     > [Pag 272] Objetivos de la integraci├│n log├¡stica
+     > [Pag 273] Calidad
+     > [Pag 273] Apoyo al ciclo de vida
+     > [Pag 273] Integraci├│n de la empresa
+     > [Pag 274] Obst├ículos para la integraci├│n de la empresa
+     > [Pag 278] Consideraci├│n simult├ínea de los recursos
+     > [Pag 278] Utilizaci├│n de los recursos
+     > [Pag 281] Aplicaciones de la plani´¼ü caci├│n de la cadena de suministro
+     > [Pag 288] Determinaci├│n de precios
+     > [Pag 288] Fundamentos de la determinaci├│n de precios
+     > [Pag 291] Problemas de la determinaci├│n de precios
+     > [Pag 302] Administraci├│n de la cadena de suministro global
+     > [Pag 310] Desaf├¡os para la contrataci├│n en un pa├¡s con costos bajos
+     > [Pag 310] Lineamientos para la contrataci├│n
+     > [Pag 311] Resumen
+     > [Pag 312] Preguntas desa´¼ü antes
+     > [Pag 313] Integraci├│n de la red
+     > [Pag 314] Red de instalaciones de la empresa
+     > [Pag 315] Espectro de decisiones de ubicaci├│n
+     > [Pag 315] Presencia local: un paradigma obsoleto
+     > [Pag 318] Justi´¼ü caci├│n del almac├®n
+     > [Pag 319] Econom├¡as del transporte
+     > [Pag 319] Integraci├│n de costo total
+     > [Pag 321] Econom├¡as del inventario
+     > [Pag 326] Red de costo total
+     > [Pag 329] Formulaci├│n de la estrategia log├¡stica
+     > [Pag 329] Minimizaci├│n del costo
+     > [Pag 329] Umbral de servicio
+     > [Pag 333] Estrategia de ´¼ü nalizaci├│n
+     > [Pag 334] Resumen
+     > [Pag 335] Preguntas desa´¼ü antes
+     > [Pag 345] Fase II: recopilaci├│n y an├ílisis de datos
+     > [Pag 345] Recopilaci├│n de suposiciones y de datos
+     > [Pag 348] An├ílisis
+     > [Pag 351] Implementaci├│n
+     > [Pag 351] M├®todos y t├®cnicas de an├ílisis de la cadena de suministro
+     > [Pag 352] Decisiones del dise├▒o
+     > [Pag 353] L├│gica del dise├▒o
+     > [Pag 361] Decisiones del transporte
+     > [Pag 364] An├ílisis del env├¡o
+     > [Pag 364] An├ílisis del inventario
+     > [Pag 367] Preguntas desa´¼ü antes
+     > [Pag 393] Evaluaci├│n operativa
+     > [Pag 393] Perspectivas funcionales
+     > [Pag 402] Evaluaci├│n ´¼ü nanciera
+     > [Pag 402] An├ílisis costo-ingresos
+     > [Pag 417] ├ìndice tem├ítico
+
+ [PILLAR LOGISTICO]: 3. INVENTORY & PLANNING EXPERT
+---------------------------------------------------
+   - LIBRO: Log├¡stica Administraci├│n de la Cadena de Suministro (Ronald H. Ballou) (z-library.sk, 1lib.sk, z-lib.sk)
+     > [Pag 009] PREFACIO xxi
+     > [Pag 009] PARTE I:
+     > [Pag 009] INTRODUCCI├ôN Y PLANEACI├ôN
+     > [Pag 009] PARTE II:
+     > [Pag 009] OBJETIVOS DEL SERVICIO AL CLIENTE
+     > [Pag 009] PARTE III:
+     > [Pag 009] ESTRATEGIA DEL TRANSPORTE 164
+     > [Pag 009] PARTE IV:
+     > [Pag 009] ESTRATEGIA DE INVENTARIO 286
+     > [Pag 009] PARTE V:
+     > [Pag 009] ESTRATEGIA DE UBICACI├ôN 550
+     > [Pag 009] PARTE VI:
+     > [Pag 009] ORGANIZACI├ôN Y CONTROL 691
+     > [Pag 009] ESUMEN
+     > [Pag 009] CONTENIDO
+     > [Pag 014] PARTE III:
+     > [Pag 014] ESTRATEGIA DEL TRANSPORTE 164
+     > [Pag 027] Cap├¡tulo
+     > [Pag 027] Log├¡stica de los negocios y la cadena de suministros: un tema vital
+     > [Pag 028] Ejemplo
+     > [Pag 040] Las expectativas de la log├¡stica del servicio al cliente est├ín incrementando
+     > [Pag 041] Las l├¡neas de suministros y de distribuci├│n est├ín creciendo con mayor complejidad
+     > [Pag 042] Ejemplo
+     > [Pag 067] Conceptualizaci├│n del problema de planeaci├│n de la log├¡stica y de la cadena de suministros
+     > [Pag 088] Cap├¡tulo
+     > [Pag 088] El producto de la log├¡stica y de la cadena de suministros
+     > [Pag 098] Relaci├│n peso-volumen
+     > [Pag 099] Ejemplos
+     > [Pag 099] Relaci├│n valor-peso
+     > [Pag 100] Sustituibilidad
+     > [Pag 100] Caracter├¡sticas de riesgo
+     > [Pag 103] Ejemplo
+     > [Pag 103] M├®todos geogr├íficos de fijaci├│n de precios
+     > [Pag 104] Ejemplo
+     > [Pag 110] Descuentos por cantidad
+     > [Pag 110] Algunos temas legales
+     > [Pag 111] Ejemplo
+     > [Pag 145] Interrupciones del sistema
+     > [Pag 160] Observaci├│n
+     > [Pag 161] Surtido del pedido
+     > [Pag 171] Prioridades del procesamiento
+     > [Pag 171] Ejemplo
+     > [Pag 171] Procesamiento paralelo versus secuencial
+     > [Pag 172] Precisi├│n en el surtido del pedido
+     > [Pag 172] Acumulaci├│n de pedidos
+     > [Pag 172] Tama├▒o del lote
+     > [Pag 172] Consolidaci├│n del embarque
+     > [Pag 172] Funci├│n
+     > [Pag 176] Ejemplo
+     > [Pag 178] Aplicaci├│n
+     > [Pag 185] Aplicaci├│n
+     > [Pag 185] Comercio electr├│nico
+     > [Pag 190] Cap├¡tulo
+     > [Pag 190] Fundamentos del transporte
+     > [Pag 191] Mayor competencia
+     > [Pag 191] Aplicaci├│n
+     > [Pag 192] Econom├¡as de escala
+     > [Pag 192] Observaci├│n
+     > [Pag 192] Precios reducidos
+     > [Pag 193] Precio
+     > [Pag 194] Tiempo de tr├ínsito y variabilidad
+     > [Pag 195] P├®rdidas y da├▒os
+     > [Pag 197] Ferrocarril
+     > [Pag 198] Cami├│n
+     > [Pag 199] Avi├│n
+     > [Pag 200] Barco
+     > [Pag 201] Ductos
+     > [Pag 202] Remolques en plataformas
+     > [Pag 203] Carga en contenedores est├índar
+     > [Pag 204] Observaci├│n
+     > [Pag 204] Agentes
+     > [Pag 205] Servicios de env├¡os peque├▒os
+     > [Pag 206] Visi├│n general
+     > [Pag 209] Aplicaci├│n
+     > [Pag 209] Agencias y servicios
+     > [Pag 209] Ejemplo
+     > [Pag 211] Costos variables y fijos
+     > [Pag 211] Costos comunes o conjuntos
+     > [Pag 213] Caracter├¡sticas del costo por modo
+     > [Pag 216] Tarifas relacionadas con el volumen
+     > [Pag 216] Tarifas relacionadas con la distancia
+     > [Pag 218] Tarifas relacionadas con la demanda
+     > [Pag 219] Ejemplo
+     > [Pag 220] Por producto
+     > [Pag 226] Ejemplo
+     > [Pag 226] Aplicaci├│n
+     > [Pag 227] Por tama├▒o de env├¡o
+     > [Pag 227] Ejemplo
+     > [Pag 230] Por ruta
+     > [Pag 230] Ejemplo
+     > [Pag 230] Tarifas diversas
+     > [Pag 231] Servicios de transporte de l├¡nea especiales
+     > [Pag 232] Aplicaci├│n
+     > [Pag 233] Ejemplo
+     > [Pag 235] Servicios en terminales
+     > [Pag 237] Observaci├│n
+     > [Pag 238] Conocimiento de embarque
+     > [Pag 239] Factura de transporte
+     > [Pag 239] Reclamaciones de carga
+     > [Pag 239] Observaci├│n
+     > [Pag 240] Exportaci├│n
+     > [Pag 241] Importaci├│n
+     > [Pag 245] Cap├¡tulo
+     > [Pag 245] Decisiones sobre el transporte
+     > [Pag 246] Equilibrio de costos b├ísicos
+     > [Pag 247] Ejemplo
+     > [Pag 248] Consideraciones competitivas
+     > [Pag 248] Ejemplo
+     > [Pag 250] Evaluaci├│n de los m├®todos de selecci├│n
+     > [Pag 251] Puntos de origen y destino separados y sencillos
+     > [Pag 252] Ejemplo
+     > [Pag 254] Aplicaci├│n
+     > [Pag 256] Puntos m├║ltiples de origen y destino
+     > [Pag 256] Ejemplo
+     > [Pag 258] Puntos coincidentes de origen y destino
+     > [Pag 258] Aplicaci├│n
+     > [Pag 260] Ejemplo
+     > [Pag 262] Principios para una buena programaci├│n y dise├▒o de rutas
+     > [Pag 264] Ejemplo
+     > [Pag 266] M├®todos de programaci├│n y dise├▒o de rutas
+     > [Pag 268] Ejemplo
+     > [Pag 272] Aplicaci├│n
+     > [Pag 273] Secuencia de las rutas
+     > [Pag 274] Ejecuci├│n de m├®todos de programaci├│n y dise├▒o de rutas para los veh├¡culos
+     > [Pag 275] Aplicaci├│n
+     > [Pag 275] Programaci├│n y dise├▒o de rutas fluviales y mar├¡timas
+     > [Pag 276] Ejemplo
+     > [Pag 296] MetroHealth Medical Center
+     > [Pag 302] Orion Foods, Inc.
+     > [Pag 305] Ap├®ndice A
+     > [Pag 305] Orion Foods
+     > [Pag 312] Cap├¡tulo
+     > [Pag 312] Pron├│stico de los requerimientos de la cadena de suministros
+     > [Pag 352] Cap├¡tulo
+     > [Pag 352] Decisiones sobre pol├¡ticas de inventarios
+     > [Pag 381] M├®todo del punto de reorden con tiempos de demanda y de entrega inciertos
+     > [Pag 381] Ejemplo
+     > [Pag 450] Decisiones de programaci├│n de compras y de suministros
+     > [Pag 450] Cap├¡tulo
+     > [Pag 454] Programaci├│n de los suministros justo a tiempo
+     > [Pag 494] ESTUDIO DE CASO
+     > [Pag 494] Industrial Distributors, Inc.
+     > [Pag 495] Sistema de almacenamiento y manejo
+     > [Pag 495] Cap├¡tulo
+     > [Pag 527] Cap├¡tulo
+     > [Pag 527] Decisiones sobre almacenamiento y manejo
+     > [Pag 575] Ap├®ndice
+     > [Pag 576] Cap├¡tulo
+     > [Pag 576] Decisiones sobre la ubicaci├│n de instalaciones
+     > [Pag 586] Ampliaciones al modelo de ubicaci├│n de una sola instalaci├│n
+     > [Pag 613] Lista de verificaci├│n ponderada
+     > [Pag 633] ESTUDIO DE CASO
+     > [Pag 633] Superior Medical Equipment
+     > [Pag 633] Company
+     > [Pag 644] Cap├¡tulo
+     > [Pag 644] Proceso de planeaci├│n de la red
+     > [Pag 653] Aplicaci├│n
+     > [Pag 654] Conversi├│n de datos en informaci├│n
+     > [Pag 655] Aplicaci├│n
+     > [Pag 655] Ejemplo
+     > [Pag 669] Falta de informaci├│n
+     > [Pag 670] Opciones de modelaci├│n
+     > [Pag 670] Aplicaci├│n
+     > [Pag 688] Dise├▒o del canal
+     > [Pag 694] Planeaci├│n integrada de la cadena de suministros
+     > [Pag 695] Descripci├│n del problema
+     > [Pag 695] Manejo del tama├▒o del problema
+
+   - LIBRO: Lean Thinking C├│mo utilizar el pensamiento Lean para elimin (Daniel T. Jones, James P. Womack) (z-library.sk, 1lib.sk, z-lib.sk)
+     > [Pag 017] PARTE I
+     > [Pag 017] Los principios lean
+     > [Pag 376] So├▒ando con la perfecci├│n
+
+================================================================================
+ FIN DEL REPORTE UNIFICADO
+================================================================================
+

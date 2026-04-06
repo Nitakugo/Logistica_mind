@@ -1,0 +1,3647 @@
+[
+    {
+        "title": "WAREHOUSE & DISTRIBUTION SCIENCE",
+        "page": 1,
+        "subsections": [],
+        "micro_temas": [
+            "supply chain",
+            "the",
+            "and",
+            "for",
+            "john bartholdi"
+        ]
+    },
+    {
+        "title": "Release 0.96",
+        "page": 1,
+        "subsections": [
+            {
+                "title": "John J. BARTHOLDI, III",
+                "page": 1,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "and",
+                    "for",
+                    "john bartholdi"
+                ]
+            },
+            {
+                "title": "Steven T. HACKMAN",
+                "page": 1,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "and",
+                    "for",
+                    "john bartholdi"
+                ]
+            },
+            {
+                "title": "The Supply Chain and Logistics Institute",
+                "page": 1,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "and",
+                    "for",
+                    "john bartholdi"
+                ]
+            },
+            {
+                "title": "School of Industrial and Systems Engineering",
+                "page": 1,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "and",
+                    "for",
+                    "john bartholdi"
+                ]
+            },
+            {
+                "title": "Georgia Institute of Technology",
+                "page": 1,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "and",
+                    "for",
+                    "john bartholdi"
+                ]
+            },
+            {
+                "title": "Atlanta, GA 30332-0205 USA",
+                "page": 1,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "and",
+                    "for",
+                    "john bartholdi"
+                ]
+            },
+            {
+                "title": "Revised August 19, 2014",
+                "page": 1,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "and",
+                    "for",
+                    "john bartholdi"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "supply chain",
+            "the",
+            "and",
+            "for",
+            "john bartholdi"
+        ]
+    },
+    {
+        "title": "Contents",
+        "page": 3,
+        "subsections": [
+            {
+                "title": "Issues, equipment, processes",
+                "page": 3,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "warehouse",
+                    "summary more",
+                    "stock"
+                ]
+            },
+            {
+                "title": "Layout",
+                "page": 4,
+                "subsections": [],
+                "micro_temas": [
+                    "stock",
+                    "fastpick area",
+                    "the fastpick",
+                    "fastpick",
+                    "supply chain"
+                ]
+            },
+            {
+                "title": "III",
+                "page": 6,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "question",
+                    "and",
+                    "stock",
+                    "optimization"
+                ]
+            },
+            {
+                "title": "Order-picking 149",
+                "page": 6,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "question",
+                    "and",
+                    "stock",
+                    "optimization"
+                ]
+            },
+            {
+                "title": "Automation 187",
+                "page": 6,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "question",
+                    "and",
+                    "stock",
+                    "optimization"
+                ]
+            },
+            {
+                "title": "Special topics 211",
+                "page": 6,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "question",
+                    "and",
+                    "stock",
+                    "optimization"
+                ]
+            },
+            {
+                "title": "Measuring warehouse performance 225",
+                "page": 7,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "stock",
+                    "benchmarking",
+                    "question",
+                    "warehouse"
+                ]
+            },
+            {
+                "title": "VII",
+                "page": 7,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "stock",
+                    "benchmarking",
+                    "question",
+                    "warehouse"
+                ]
+            },
+            {
+                "title": "Miscellaneous 263",
+                "page": 7,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "stock",
+                    "benchmarking",
+                    "question",
+                    "warehouse"
+                ]
+            },
+            {
+                "title": "VIII",
+                "page": 7,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "stock",
+                    "benchmarking",
+                    "question",
+                    "warehouse"
+                ]
+            },
+            {
+                "title": "Appendices 281",
+                "page": 7,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "stock",
+                    "benchmarking",
+                    "question",
+                    "warehouse"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "supply chain",
+            "the",
+            "warehouse",
+            "summary more",
+            "stock"
+        ]
+    },
+    {
+        "title": "List of Figures",
+        "page": 9,
+        "subsections": [],
+        "micro_temas": [
+            "there",
+            "and",
+            "location",
+            "more",
+            "warehouse"
+        ]
+    },
+    {
+        "title": "List of Tables",
+        "page": 17,
+        "subsections": [],
+        "micro_temas": [
+            "the",
+            "pallet",
+            "area",
+            "measured",
+            "for"
+        ]
+    },
+    {
+        "title": "Preface",
+        "page": 19,
+        "subsections": [
+            {
+                "title": "0.1",
+                "page": 19,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "this",
+                    "warehouse",
+                    "model"
+                ]
+            },
+            {
+                "title": "Why this book 0.2",
+                "page": 19,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "this",
+                    "warehouse",
+                    "model"
+                ]
+            },
+            {
+                "title": "Organization 0.3",
+                "page": 20,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "warehouse",
+                    "can",
+                    "that"
+                ]
+            },
+            {
+                "title": "Resources 0.4",
+                "page": 22,
+                "subsections": [],
+                "micro_temas": [
+                    "chapter and",
+                    "the university",
+                    "chapter",
+                    "university",
+                    "from"
+                ]
+            },
+            {
+                "title": "But ﬁrst. . .",
+                "page": 22,
+                "subsections": [],
+                "micro_temas": [
+                    "chapter and",
+                    "the university",
+                    "chapter",
+                    "university",
+                    "from"
+                ]
+            },
+            {
+                "title": "Part I",
+                "page": 23,
+                "subsections": [],
+                "micro_temas": [
+                    "part issu",
+                    "issu equipment",
+                    "equipment process",
+                    "process"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "the",
+            "and",
+            "this",
+            "warehouse",
+            "model"
+        ]
+    },
+    {
+        "title": "Issues, equipment, processes",
+        "page": 23,
+        "subsections": [
+            {
+                "title": "Chapter 1",
+                "page": 27,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "demand",
+                    "supply chain",
+                    "product",
+                    "lead time"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "part issu",
+            "issu equipment",
+            "equipment process",
+            "process"
+        ]
+    },
+    {
+        "title": "Warehouse rationale",
+        "page": 27,
+        "subsections": [
+            {
+                "title": "1.1",
+                "page": 27,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "demand",
+                    "supply chain",
+                    "product",
+                    "lead time"
+                ]
+            },
+            {
+                "title": "Why have a warehouse? 1.2",
+                "page": 27,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "demand",
+                    "supply chain",
+                    "product",
+                    "lead time"
+                ]
+            },
+            {
+                "title": "Types of warehouses",
+                "page": 30,
+                "subsections": [],
+                "micro_temas": [
+                    "there",
+                    "stock",
+                    "warehouse",
+                    "product",
+                    "and"
+                ]
+            },
+            {
+                "title": "Chapter 2",
+                "page": 33,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "supply chain",
+                    "and",
+                    "flow",
+                    "product"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "the",
+            "demand",
+            "supply chain",
+            "product",
+            "lead time"
+        ]
+    },
+    {
+        "title": "Material ﬂow",
+        "page": 33,
+        "subsections": [
+            {
+                "title": "2.1",
+                "page": 33,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "supply chain",
+                    "and",
+                    "flow",
+                    "product"
+                ]
+            },
+            {
+                "title": "The ﬂuid model of product ﬂow 2.2",
+                "page": 33,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "supply chain",
+                    "and",
+                    "flow",
+                    "product"
+                ]
+            },
+            {
+                "title": "Units of handling 2.3",
+                "page": 34,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "supply chain",
+                    "and",
+                    "smaller unit",
+                    "flow"
+                ]
+            },
+            {
+                "title": "Two fundamental resources 2.4",
+                "page": 34,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "supply chain",
+                    "and",
+                    "smaller unit",
+                    "flow"
+                ]
+            },
+            {
+                "title": "Storage: “Dedicated” versus “Shared” 2.5",
+                "page": 36,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "storage location",
+                    "location",
+                    "and",
+                    "sku"
+                ]
+            },
+            {
+                "title": "The warehouse as a queuing system 2.6",
+                "page": 40,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "warehouse",
+                    "littl law",
+                    "that",
+                    "littl"
+                ]
+            },
+            {
+                "title": "Questions",
+                "page": 42,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "question",
+                    "storage",
+                    "warehouse",
+                    "location"
+                ]
+            },
+            {
+                "title": "Chapter 3",
+                "page": 45,
+                "subsections": [],
+                "micro_temas": [
+                    "and",
+                    "the",
+                    "product",
+                    "warehouse",
+                    "for"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "the",
+            "supply chain",
+            "and",
+            "flow",
+            "product"
+        ]
+    },
+    {
+        "title": "Warehouse operations",
+        "page": 45,
+        "subsections": [
+            {
+                "title": "3.1",
+                "page": 46,
+                "subsections": [],
+                "micro_temas": [
+                    "the warehouse",
+                    "and",
+                    "warehouse",
+                    "product",
+                    "for"
+                ]
+            },
+            {
+                "title": "Receiving 3.2",
+                "page": 46,
+                "subsections": [],
+                "micro_temas": [
+                    "the warehouse",
+                    "and",
+                    "warehouse",
+                    "product",
+                    "for"
+                ]
+            },
+            {
+                "title": "Put-away 3.3",
+                "page": 46,
+                "subsections": [],
+                "micro_temas": [
+                    "the warehouse",
+                    "and",
+                    "warehouse",
+                    "product",
+                    "for"
+                ]
+            },
+            {
+                "title": "Order-picking",
+                "page": 47,
+                "subsections": [
+                    {
+                        "title": "3.3.1",
+                        "page": 49,
+                        "subsections": [],
+                        "micro_temas": [
+                            "they",
+                            "the order",
+                            "and",
+                            "stock",
+                            "that"
+                        ]
+                    },
+                    {
+                        "title": "Sharing the work of order-picking",
+                        "page": 49,
+                        "subsections": [],
+                        "micro_temas": [
+                            "they",
+                            "the order",
+                            "and",
+                            "stock",
+                            "that"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the warehouse",
+                    "and",
+                    "orderpicking",
+                    "warehouse",
+                    "for"
+                ]
+            },
+            {
+                "title": "3.4",
+                "page": 50,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "order",
+                    "and",
+                    "that",
+                    "this"
+                ]
+            },
+            {
+                "title": "Checking and packing 3.5",
+                "page": 50,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "order",
+                    "and",
+                    "that",
+                    "this"
+                ]
+            },
+            {
+                "title": "Shipping 3.6",
+                "page": 51,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "for",
+                    "shipping",
+                    "product"
+                ]
+            },
+            {
+                "title": "Summary 3.7",
+                "page": 51,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "for",
+                    "shipping",
+                    "product"
+                ]
+            },
+            {
+                "title": "More 3.8",
+                "page": 51,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "for",
+                    "shipping",
+                    "product"
+                ]
+            },
+            {
+                "title": "Questions",
+                "page": 53,
+                "subsections": [],
+                "micro_temas": [
+                    "are the",
+                    "question what",
+                    "and why",
+                    "what are",
+                    "warehouse"
+                ]
+            },
+            {
+                "title": "Chapter 4",
+                "page": 55,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "wms",
+                    "supply chain",
+                    "stock"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "and",
+            "the",
+            "product",
+            "warehouse",
+            "for"
+        ]
+    },
+    {
+        "title": "Warehouse management systems",
+        "page": 55,
+        "subsections": [
+            {
+                "title": "4.1",
+                "page": 56,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "stock",
+                    "management",
+                    "and",
+                    "wms"
+                ]
+            },
+            {
+                "title": "Receiving and shipping 4.2",
+                "page": 56,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "stock",
+                    "management",
+                    "and",
+                    "wms"
+                ]
+            },
+            {
+                "title": "Stock locator system 4.3",
+                "page": 56,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "stock",
+                    "management",
+                    "and",
+                    "wms"
+                ]
+            },
+            {
+                "title": "Menu of features 4.4",
+                "page": 56,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "stock",
+                    "management",
+                    "and",
+                    "wms"
+                ]
+            },
+            {
+                "title": "The market 4.5",
+                "page": 57,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "they",
+                    "management system",
+                    "warehouse management",
+                    "wms"
+                ]
+            },
+            {
+                "title": "Supply Chain Execution Systems 4.6",
+                "page": 58,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "and",
+                    "system",
+                    "warehouse management"
+                ]
+            },
+            {
+                "title": "Summary",
+                "page": 58,
+                "subsections": [
+                    {
+                        "title": "4.6.1",
+                        "page": 58,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "and",
+                            "system",
+                            "warehouse management"
+                        ]
+                    },
+                    {
+                        "title": "More",
+                        "page": 58,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "and",
+                            "system",
+                            "warehouse management"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "and",
+                    "system",
+                    "warehouse management"
+                ]
+            },
+            {
+                "title": "Chapter 5",
+                "page": 59,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "pallet",
+                    "standard",
+                    "storage",
+                    "are"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "the",
+            "and",
+            "wms",
+            "supply chain",
+            "stock"
+        ]
+    },
+    {
+        "title": "Storage and handling equipment",
+        "page": 59,
+        "subsections": [
+            {
+                "title": "5.1",
+                "page": 59,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "pallet",
+                    "standard",
+                    "storage",
+                    "are"
+                ]
+            },
+            {
+                "title": "Storage equipment",
+                "page": 59,
+                "subsections": [
+                    {
+                        "title": "5.1.1",
+                        "page": 60,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "pallet",
+                            "rack",
+                            "and",
+                            "that"
+                        ]
+                    },
+                    {
+                        "title": "Pallet storage 5.1.2",
+                        "page": 60,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "pallet",
+                            "rack",
+                            "and",
+                            "that"
+                        ]
+                    },
+                    {
+                        "title": "Bin-shelving or static rack 5.1.3",
+                        "page": 63,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "and",
+                            "lift truck",
+                            "feet meter",
+                            "lift"
+                        ]
+                    },
+                    {
+                        "title": "Gravity ﬂow rack",
+                        "page": 65,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "flow rack",
+                            "and",
+                            "stock",
+                            "for"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the",
+                    "pallet",
+                    "standard",
+                    "storage",
+                    "are"
+                ]
+            },
+            {
+                "title": "5.2",
+                "page": 66,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "for",
+                    "are",
+                    "conveyor"
+                ]
+            },
+            {
+                "title": "Conveyors",
+                "page": 66,
+                "subsections": [
+                    {
+                        "title": "5.2.1",
+                        "page": 66,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "and",
+                            "for",
+                            "are",
+                            "conveyor"
+                        ]
+                    },
+                    {
+                        "title": "Sortation equipment",
+                        "page": 66,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "and",
+                            "for",
+                            "are",
+                            "conveyor"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "for",
+                    "are",
+                    "conveyor"
+                ]
+            },
+            {
+                "title": "5.3",
+                "page": 67,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "pallet",
+                    "rack",
+                    "for"
+                ]
+            },
+            {
+                "title": "Summary 5.4",
+                "page": 67,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "pallet",
+                    "rack",
+                    "for"
+                ]
+            },
+            {
+                "title": "On the lighter side 5.5",
+                "page": 67,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "pallet",
+                    "rack",
+                    "for"
+                ]
+            },
+            {
+                "title": "Questions",
+                "page": 68,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "question",
+                    "pallet",
+                    "flow rack",
+                    "and"
+                ]
+            },
+            {
+                "title": "Part II",
+                "page": 69,
+                "subsections": [],
+                "micro_temas": [
+                    "part layout",
+                    "layout"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "the",
+            "pallet",
+            "standard",
+            "storage",
+            "are"
+        ]
+    },
+    {
+        "title": "Layout",
+        "page": 69,
+        "subsections": [
+            {
+                "title": "Chapter 6",
+                "page": 73,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "pallet",
+                    "warehouse",
+                    "handled",
+                    "unitload"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "part layout",
+            "layout"
+        ]
+    },
+    {
+        "title": "Layout of a unit-load area",
+        "page": 73,
+        "subsections": [
+            {
+                "title": "6.1",
+                "page": 73,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "pallet",
+                    "warehouse",
+                    "handled",
+                    "unitload"
+                ]
+            },
+            {
+                "title": "Space",
+                "page": 73,
+                "subsections": [
+                    {
+                        "title": "6.1.1",
+                        "page": 73,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "pallet",
+                            "warehouse",
+                            "handled",
+                            "unitload"
+                        ]
+                    },
+                    {
+                        "title": "Rack or stack? 6.1.2",
+                        "page": 73,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "pallet",
+                            "warehouse",
+                            "handled",
+                            "unitload"
+                        ]
+                    },
+                    {
+                        "title": "Lane depth",
+                        "page": 76,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "pallet position",
+                            "that",
+                            "space",
+                            "and"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the",
+                    "pallet",
+                    "warehouse",
+                    "handled",
+                    "unitload"
+                ]
+            },
+            {
+                "title": "6.2",
+                "page": 81,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "pallet",
+                    "forklift",
+                    "and",
+                    "location"
+                ]
+            },
+            {
+                "title": "Labor",
+                "page": 81,
+                "subsections": [
+                    {
+                        "title": "6.2.1",
+                        "page": 81,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "pallet",
+                            "forklift",
+                            "and",
+                            "location"
+                        ]
+                    },
+                    {
+                        "title": "Reducing labor by dual-cycle operations 6.2.2",
+                        "page": 81,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "pallet",
+                            "forklift",
+                            "and",
+                            "location"
+                        ]
+                    },
+                    {
+                        "title": "Reducing labor by careful product placement 6.2.3",
+                        "page": 84,
+                        "subsections": [],
+                        "micro_temas": [
+                            "there",
+                            "location",
+                            "and",
+                            "receiving",
+                            "shipping"
+                        ]
+                    },
+                    {
+                        "title": "Location of receiving and shipping 6.2.4",
+                        "page": 86,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the warehouse",
+                            "storage location",
+                            "and",
+                            "pallet",
+                            "that"
+                        ]
+                    },
+                    {
+                        "title": "Aisle conﬁguration",
+                        "page": 89,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "receiving and",
+                            "travel",
+                            "pallet",
+                            "more"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the",
+                    "pallet",
+                    "forklift",
+                    "and",
+                    "location"
+                ]
+            },
+            {
+                "title": "6.3",
+                "page": 90,
+                "subsections": [],
+                "micro_temas": [
+                    "they",
+                    "and",
+                    "pallet",
+                    "storage",
+                    "which"
+                ]
+            },
+            {
+                "title": "Summary 6.4",
+                "page": 90,
+                "subsections": [],
+                "micro_temas": [
+                    "they",
+                    "and",
+                    "pallet",
+                    "storage",
+                    "which"
+                ]
+            },
+            {
+                "title": "More 6.5",
+                "page": 91,
+                "subsections": [],
+                "micro_temas": [
+                    "they",
+                    "pallet this",
+                    "and",
+                    "are",
+                    "this sku"
+                ]
+            },
+            {
+                "title": "Questions",
+                "page": 92,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and shipping",
+                    "question",
+                    "this sku",
+                    "pallet"
+                ]
+            },
+            {
+                "title": "Chapter 7",
+                "page": 99,
+                "subsections": [],
+                "micro_temas": [
+                    "stock",
+                    "the",
+                    "pallet",
+                    "carton",
+                    "from"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "the",
+            "pallet",
+            "warehouse",
+            "handled",
+            "unitload"
+        ]
+    },
+    {
+        "title": "Layout of a carton-pick-from-pallet area",
+        "page": 99,
+        "subsections": [
+            {
+                "title": "7.1",
+                "page": 99,
+                "subsections": [],
+                "micro_temas": [
+                    "stock",
+                    "the",
+                    "pallet",
+                    "carton",
+                    "from"
+                ]
+            },
+            {
+                "title": "Layout for a forward area",
+                "page": 99,
+                "subsections": [
+                    {
+                        "title": "7.1.1",
+                        "page": 101,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the forward",
+                            "restock",
+                            "pallet",
+                            "forward area",
+                            "area"
+                        ]
+                    },
+                    {
+                        "title": "Operating protocols 7.1.2",
+                        "page": 101,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the forward",
+                            "restock",
+                            "pallet",
+                            "forward area",
+                            "area"
+                        ]
+                    },
+                    {
+                        "title": "Quantities to store forward 7.1.3",
+                        "page": 102,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the forward",
+                            "restock",
+                            "pallet",
+                            "forward area",
+                            "area"
+                        ]
+                    },
+                    {
+                        "title": "Choosing skus for the forward-pick area 7.1.4",
+                        "page": 103,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the forward",
+                            "pallet the",
+                            "stock",
+                            "forward area",
+                            "pick area"
+                        ]
+                    },
+                    {
+                        "title": "Allocating space by auction",
+                        "page": 108,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "pallet location",
+                            "for",
+                            "sku",
+                            "location"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "stock",
+                    "the",
+                    "pallet",
+                    "carton",
+                    "from"
+                ]
+            },
+            {
+                "title": "7.2",
+                "page": 109,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "pallet",
+                    "pick",
+                    "area",
+                    "and"
+                ]
+            },
+            {
+                "title": "Redirecting uneconomical picks 7.3",
+                "page": 109,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "pallet",
+                    "pick",
+                    "area",
+                    "and"
+                ]
+            },
+            {
+                "title": "Summary 7.4",
+                "page": 109,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "pallet",
+                    "pick",
+                    "area",
+                    "and"
+                ]
+            },
+            {
+                "title": "More",
+                "page": 110,
+                "subsections": [
+                    {
+                        "title": "7.4.1",
+                        "page": 110,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "pallet",
+                            "and",
+                            "that",
+                            "carton"
+                        ]
+                    },
+                    {
+                        "title": "Pallet presentation 7.4.2",
+                        "page": 110,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "pallet",
+                            "and",
+                            "that",
+                            "carton"
+                        ]
+                    },
+                    {
+                        "title": "Congestion 7.4.3",
+                        "page": 110,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "pallet",
+                            "and",
+                            "that",
+                            "carton"
+                        ]
+                    },
+                    {
+                        "title": "Pallet-building",
+                        "page": 111,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "pallet",
+                            "and",
+                            "carton",
+                            "that"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the",
+                    "pallet",
+                    "and",
+                    "that",
+                    "carton"
+                ]
+            },
+            {
+                "title": "7.5",
+                "page": 112,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "pallet",
+                    "sku",
+                    "stock",
+                    "pick"
+                ]
+            },
+            {
+                "title": "Questions",
+                "page": 112,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "pallet",
+                    "sku",
+                    "stock",
+                    "pick"
+                ]
+            },
+            {
+                "title": "Chapter 8",
+                "page": 119,
+                "subsections": [],
+                "micro_temas": [
+                    "the fastpick",
+                    "fastpick area",
+                    "stock",
+                    "and",
+                    "fastpick"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "stock",
+            "the",
+            "pallet",
+            "carton",
+            "from"
+        ]
+    },
+    {
+        "title": "Layout of a piece-pick-from-carton area",
+        "page": 119,
+        "subsections": [
+            {
+                "title": "8.1",
+                "page": 119,
+                "subsections": [],
+                "micro_temas": [
+                    "the fastpick",
+                    "fastpick area",
+                    "stock",
+                    "and",
+                    "fastpick"
+                ]
+            },
+            {
+                "title": "What is a fast-pick area? 8.2",
+                "page": 119,
+                "subsections": [],
+                "micro_temas": [
+                    "the fastpick",
+                    "fastpick area",
+                    "stock",
+                    "and",
+                    "fastpick"
+                ]
+            },
+            {
+                "title": "Estimating restocks 8.3",
+                "page": 121,
+                "subsections": [],
+                "micro_temas": [
+                    "the forward",
+                    "restock",
+                    "sku",
+                    "pick area",
+                    "and"
+                ]
+            },
+            {
+                "title": "How much of each sku to store in the fast-pick area?",
+                "page": 122,
+                "subsections": [
+                    {
+                        "title": "8.3.1",
+                        "page": 123,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the problem",
+                            "restock",
+                            "first sku",
+                            "and",
+                            "area"
+                        ]
+                    },
+                    {
+                        "title": "Minimizing labor to maintain a forward pick area 8.3.2",
+                        "page": 123,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the problem",
+                            "restock",
+                            "first sku",
+                            "and",
+                            "area"
+                        ]
+                    },
+                    {
+                        "title": "Two commonly-used storage strategies 8.3.3",
+                        "page": 126,
+                        "subsections": [],
+                        "micro_temas": [
+                            "restock",
+                            "the",
+                            "sku",
+                            "equal time",
+                            "time allocation"
+                        ]
+                    },
+                    {
+                        "title": "Comparison with optimal 8.3.4",
+                        "page": 127,
+                        "subsections": [],
+                        "micro_temas": [
+                            "restock",
+                            "the",
+                            "sku",
+                            "equal space",
+                            "and"
+                        ]
+                    },
+                    {
+                        "title": "Differing costs per restock 8.3.5",
+                        "page": 129,
+                        "subsections": [],
+                        "micro_temas": [
+                            "restock",
+                            "the",
+                            "optimal allocation",
+                            "and",
+                            "sku"
+                        ]
+                    },
+                    {
+                        "title": "Minimum and maximum allocations 8.3.6",
+                        "page": 130,
+                        "subsections": [],
+                        "micro_temas": [
+                            "stock",
+                            "the",
+                            "sku",
+                            "fastpick area",
+                            "allocation"
+                        ]
+                    },
+                    {
+                        "title": "Reorder points and safety stock",
+                        "page": 130,
+                        "subsections": [],
+                        "micro_temas": [
+                            "stock",
+                            "the",
+                            "sku",
+                            "fastpick area",
+                            "allocation"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the forward",
+                    "restock",
+                    "pick area",
+                    "sku",
+                    "forward pick"
+                ]
+            },
+            {
+                "title": "8.4",
+                "page": 131,
+                "subsections": [],
+                "micro_temas": [
+                    "the fastpick",
+                    "fastpick area",
+                    "sku",
+                    "stock",
+                    "from the"
+                ]
+            },
+            {
+                "title": "Which skus go into the fast-pick area?",
+                "page": 131,
+                "subsections": [
+                    {
+                        "title": "8.4.1",
+                        "page": 133,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the fastpick",
+                            "the sku",
+                            "fastpick area",
+                            "stock",
+                            "which"
+                        ]
+                    },
+                    {
+                        "title": "Selecting skus to minimize labor 8.4.2",
+                        "page": 133,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the fastpick",
+                            "the sku",
+                            "fastpick area",
+                            "stock",
+                            "which"
+                        ]
+                    },
+                    {
+                        "title": "Stocking to equalize space or restocking frequencies 8.4.3",
+                        "page": 135,
+                        "subsections": [],
+                        "micro_temas": [
+                            "restock",
+                            "the",
+                            "sku",
+                            "and",
+                            "forward"
+                        ]
+                    },
+                    {
+                        "title": "Further comments on the model",
+                        "page": 136,
+                        "subsections": [],
+                        "micro_temas": [
+                            "restock",
+                            "the",
+                            "sku",
+                            "eqt allocation",
+                            "and"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the fastpick",
+                    "fastpick area",
+                    "sku",
+                    "stock",
+                    "from the"
+                ]
+            },
+            {
+                "title": "8.5",
+                "page": 137,
+                "subsections": [],
+                "micro_temas": [
+                    "restock",
+                    "the",
+                    "sku",
+                    "for",
+                    "fastpick area"
+                ]
+            },
+            {
+                "title": "Additional issues",
+                "page": 137,
+                "subsections": [
+                    {
+                        "title": "8.5.1",
+                        "page": 137,
+                        "subsections": [],
+                        "micro_temas": [
+                            "restock",
+                            "the",
+                            "sku",
+                            "for",
+                            "fastpick area"
+                        ]
+                    },
+                    {
+                        "title": "Storage by family 8.5.2",
+                        "page": 137,
+                        "subsections": [],
+                        "micro_temas": [
+                            "restock",
+                            "the",
+                            "sku",
+                            "for",
+                            "fastpick area"
+                        ]
+                    },
+                    {
+                        "title": "Accounting for safety stock 8.5.3",
+                        "page": 138,
+                        "subsections": [],
+                        "micro_temas": [
+                            "restock",
+                            "the fastpick",
+                            "sku",
+                            "fastpick area",
+                            "fastpick"
+                        ]
+                    },
+                    {
+                        "title": "Limits on capacity 8.5.4",
+                        "page": 138,
+                        "subsections": [],
+                        "micro_temas": [
+                            "restock",
+                            "the fastpick",
+                            "sku",
+                            "fastpick area",
+                            "fastpick"
+                        ]
+                    },
+                    {
+                        "title": "Accounting for on-hand inventory levels 8.5.5",
+                        "page": 139,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the fastpick",
+                            "stock",
+                            "sku",
+                            "fastpick area",
+                            "fastpick"
+                        ]
+                    },
+                    {
+                        "title": "Setup costs 8.5.6",
+                        "page": 140,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the forward",
+                            "stock",
+                            "forward pick",
+                            "sku",
+                            "pick area"
+                        ]
+                    },
+                    {
+                        "title": "Redirecting uneconomical picks 8.5.7",
+                        "page": 140,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the forward",
+                            "stock",
+                            "forward pick",
+                            "sku",
+                            "pick area"
+                        ]
+                    },
+                    {
+                        "title": "Multiple fast-pick areas",
+                        "page": 140,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the forward",
+                            "stock",
+                            "forward pick",
+                            "sku",
+                            "pick area"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "restock",
+                    "the",
+                    "sku",
+                    "for",
+                    "fastpick area"
+                ]
+            },
+            {
+                "title": "8.6",
+                "page": 141,
+                "subsections": [],
+                "micro_temas": [
+                    "the fluid",
+                    "stock",
+                    "and",
+                    "fluid model",
+                    "sku"
+                ]
+            },
+            {
+                "title": "Limitations of the ﬂuid model 8.7",
+                "page": 141,
+                "subsections": [],
+                "micro_temas": [
+                    "the fluid",
+                    "stock",
+                    "and",
+                    "fluid model",
+                    "sku"
+                ]
+            },
+            {
+                "title": "Size of the fast-pick area",
+                "page": 143,
+                "subsections": [
+                    {
+                        "title": "8.7.1",
+                        "page": 143,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "cas cas",
+                            "pick saving",
+                            "area",
+                            "for"
+                        ]
+                    },
+                    {
+                        "title": "How large should the fast-pick area be? 8.7.2",
+                        "page": 143,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "cas cas",
+                            "pick saving",
+                            "area",
+                            "for"
+                        ]
+                    },
+                    {
+                        "title": "How can the fast-pick area be made larger?",
+                        "page": 145,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "stock",
+                            "fastpick area",
+                            "and",
+                            "sku"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the",
+                    "cas cas",
+                    "pick saving",
+                    "area",
+                    "for"
+                ]
+            },
+            {
+                "title": "8.8",
+                "page": 146,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "restock",
+                    "area",
+                    "and",
+                    "sku"
+                ]
+            },
+            {
+                "title": "On the lighter side 8.9",
+                "page": 146,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "restock",
+                    "area",
+                    "and",
+                    "sku"
+                ]
+            },
+            {
+                "title": "Summary 8.10",
+                "page": 146,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "restock",
+                    "area",
+                    "and",
+                    "sku"
+                ]
+            },
+            {
+                "title": "Questions",
+                "page": 148,
+                "subsections": [],
+                "micro_temas": [
+                    "number restock",
+                    "the total",
+                    "sku",
+                    "area",
+                    "question"
+                ]
+            },
+            {
+                "title": "Chapter 9",
+                "page": 159,
+                "subsections": [],
+                "micro_temas": [
+                    "the same",
+                    "space",
+                    "that",
+                    "warehouse",
+                    "sku"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "the fastpick",
+            "fastpick area",
+            "stock",
+            "and",
+            "fastpick"
+        ]
+    },
+    {
+        "title": "Detailed slotting",
+        "page": 159,
+        "subsections": [
+            {
+                "title": "9.1",
+                "page": 159,
+                "subsections": [],
+                "micro_temas": [
+                    "the same",
+                    "space",
+                    "that",
+                    "warehouse",
+                    "sku"
+                ]
+            },
+            {
+                "title": "Case orientation and stack level 9.2",
+                "page": 159,
+                "subsections": [],
+                "micro_temas": [
+                    "the same",
+                    "space",
+                    "that",
+                    "warehouse",
+                    "sku"
+                ]
+            },
+            {
+                "title": "Packing algorithms",
+                "page": 161,
+                "subsections": [
+                    {
+                        "title": "9.2.1",
+                        "page": 162,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the sku",
+                            "first fit",
+                            "sku",
+                            "and",
+                            "shelf"
+                        ]
+                    },
+                    {
+                        "title": "Next Fit 9.2.2",
+                        "page": 162,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the sku",
+                            "first fit",
+                            "sku",
+                            "and",
+                            "shelf"
+                        ]
+                    },
+                    {
+                        "title": "First Fit 9.2.3",
+                        "page": 163,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "sku",
+                            "first fit",
+                            "first",
+                            "and"
+                        ]
+                    },
+                    {
+                        "title": "More on packing algorithms",
+                        "page": 163,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "sku",
+                            "first fit",
+                            "first",
+                            "and"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the",
+                    "sku",
+                    "and",
+                    "shelf",
+                    "shelv"
+                ]
+            },
+            {
+                "title": "9.3",
+                "page": 164,
+                "subsections": [],
+                "micro_temas": [
+                    "together",
+                    "sku",
+                    "and",
+                    "that",
+                    "are"
+                ]
+            },
+            {
+                "title": "Other issues 9.4",
+                "page": 164,
+                "subsections": [],
+                "micro_temas": [
+                    "together",
+                    "sku",
+                    "and",
+                    "that",
+                    "are"
+                ]
+            },
+            {
+                "title": "Questions",
+                "page": 169,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "question",
+                    "height",
+                    "width",
+                    "shelf"
+                ]
+            },
+            {
+                "title": "Part III",
+                "page": 171,
+                "subsections": [],
+                "micro_temas": [
+                    "part iii",
+                    "iii orderpicking",
+                    "orderpicking"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "the same",
+            "space",
+            "that",
+            "warehouse",
+            "sku"
+        ]
+    },
+    {
+        "title": "Order-picking",
+        "page": 171,
+        "subsections": [
+            {
+                "title": "Chapter 10",
+                "page": 175,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "path",
+                    "location",
+                    "order",
+                    "and"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "part iii",
+            "iii orderpicking",
+            "orderpicking"
+        ]
+    },
+    {
+        "title": "Routing to reduce travel",
+        "page": 175,
+        "subsections": [
+            {
+                "title": "10.1",
+                "page": 175,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "path",
+                    "location",
+                    "order",
+                    "and"
+                ]
+            },
+            {
+                "title": "The problem of pick-path optimization 10.2",
+                "page": 175,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "path",
+                    "location",
+                    "order",
+                    "and"
+                ]
+            },
+            {
+                "title": "Heuristic methods of generating short pick paths",
+                "page": 176,
+                "subsections": [
+                    {
+                        "title": "10.2.1",
+                        "page": 176,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "global path",
+                            "location",
+                            "order picker",
+                            "order"
+                        ]
+                    },
+                    {
+                        "title": "Path outlines 10.2.2",
+                        "page": 176,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "global path",
+                            "location",
+                            "order picker",
+                            "order"
+                        ]
+                    },
+                    {
+                        "title": "Product placement",
+                        "page": 180,
+                        "subsections": [],
+                        "micro_temas": [
+                            "that the",
+                            "and",
+                            "travel",
+                            "pickpath optimization",
+                            "that"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the",
+                    "global path",
+                    "location",
+                    "order picker",
+                    "order"
+                ]
+            },
+            {
+                "title": "10.3",
+                "page": 181,
+                "subsections": [],
+                "micro_temas": [
+                    "that the",
+                    "aisle",
+                    "pickpath",
+                    "and",
+                    "that"
+                ]
+            },
+            {
+                "title": "Pick-path optimization",
+                "page": 181,
+                "subsections": [
+                    {
+                        "title": "10.3.1",
+                        "page": 187,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "pickpath optimization",
+                            "picker",
+                            "optimization",
+                            "for"
+                        ]
+                    },
+                    {
+                        "title": "How to take advantage of optimization 10.3.2",
+                        "page": 187,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "pickpath optimization",
+                            "picker",
+                            "optimization",
+                            "for"
+                        ]
+                    },
+                    {
+                        "title": "How much is optimization worth?",
+                        "page": 187,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "pickpath optimization",
+                            "picker",
+                            "optimization",
+                            "for"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "that the",
+                    "aisle",
+                    "pickpath",
+                    "and",
+                    "that"
+                ]
+            },
+            {
+                "title": "10.4",
+                "page": 188,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "pickpath",
+                    "that",
+                    "warehouse",
+                    "question"
+                ]
+            },
+            {
+                "title": "Summary 10.5",
+                "page": 188,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "pickpath",
+                    "that",
+                    "warehouse",
+                    "question"
+                ]
+            },
+            {
+                "title": "Questions",
+                "page": 189,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "question",
+                    "warehouse",
+                    "shortest",
+                    "path"
+                ]
+            },
+            {
+                "title": "Chapter 11",
+                "page": 193,
+                "subsections": [],
+                "micro_temas": [
+                    "the queue",
+                    "and",
+                    "queue",
+                    "tote",
+                    "this"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "the",
+            "path",
+            "location",
+            "order",
+            "and"
+        ]
+    },
+    {
+        "title": "Work ﬂow and balance",
+        "page": 193,
+        "subsections": [
+            {
+                "title": "11.1",
+                "page": 194,
+                "subsections": [],
+                "micro_temas": [
+                    "they",
+                    "worker",
+                    "that",
+                    "and",
+                    "each"
+                ]
+            },
+            {
+                "title": "Organizing a team of order-pickers",
+                "page": 194,
+                "subsections": [
+                    {
+                        "title": "11.1.1",
+                        "page": 195,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the normative",
+                            "worker",
+                            "and",
+                            "that",
+                            "assumption"
+                        ]
+                    },
+                    {
+                        "title": "A model of work and workers 11.1.2",
+                        "page": 195,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the normative",
+                            "worker",
+                            "and",
+                            "that",
+                            "assumption"
+                        ]
+                    },
+                    {
+                        "title": "Improvements that are not 11.1.3",
+                        "page": 199,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "worker",
+                            "and",
+                            "that",
+                            "station"
+                        ]
+                    },
+                    {
+                        "title": "Some advantages of bucket brigades",
+                        "page": 201,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "and",
+                            "worker",
+                            "order",
+                            "are"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "they",
+                    "worker",
+                    "that",
+                    "and",
+                    "each"
+                ]
+            },
+            {
+                "title": "11.2",
+                "page": 202,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "order",
+                    "picking",
+                    "work"
+                ]
+            },
+            {
+                "title": "Bucket brigades in the warehouse 11.3",
+                "page": 202,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "order",
+                    "picking",
+                    "work"
+                ]
+            },
+            {
+                "title": "Summary 11.4",
+                "page": 204,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "bucket brigad",
+                    "work",
+                    "brigad",
+                    "and"
+                ]
+            },
+            {
+                "title": "Questions",
+                "page": 206,
+                "subsections": [],
+                "micro_temas": [
+                    "the worker",
+                    "worker",
+                    "question",
+                    "order",
+                    "bucket brigade"
+                ]
+            },
+            {
+                "title": "Part IV",
+                "page": 209,
+                "subsections": [],
+                "micro_temas": [
+                    "part automation",
+                    "automation"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "the queue",
+            "and",
+            "queue",
+            "tote",
+            "this"
+        ]
+    },
+    {
+        "title": "Automation",
+        "page": 209,
+        "subsections": [
+            {
+                "title": "Chapter 12",
+                "page": 213,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "carousel",
+                    "and",
+                    "stock",
+                    "this"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "part automation",
+            "automation"
+        ]
+    },
+    {
+        "title": "Carousels, A-frames, and AS/RS",
+        "page": 213,
+        "subsections": [
+            {
+                "title": "12.1",
+                "page": 213,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "carousel",
+                    "and",
+                    "stock",
+                    "this"
+                ]
+            },
+            {
+                "title": "Carousels",
+                "page": 213,
+                "subsections": [
+                    {
+                        "title": "12.1.1",
+                        "page": 213,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "carousel",
+                            "and",
+                            "stock",
+                            "this"
+                        ]
+                    },
+                    {
+                        "title": "Control 12.1.2",
+                        "page": 213,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "carousel",
+                            "and",
+                            "stock",
+                            "this"
+                        ]
+                    },
+                    {
+                        "title": "Storage 12.1.3",
+                        "page": 218,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the carousel",
+                            "carousel",
+                            "stock",
+                            "and",
+                            "order"
+                        ]
+                    },
+                    {
+                        "title": "Throughput",
+                        "page": 218,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the carousel",
+                            "carousel",
+                            "stock",
+                            "and",
+                            "order"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the",
+                    "carousel",
+                    "and",
+                    "stock",
+                    "this"
+                ]
+            },
+            {
+                "title": "12.2",
+                "page": 219,
+                "subsections": [],
+                "micro_temas": [
+                    "stock",
+                    "the",
+                    "aframe",
+                    "conveyor",
+                    "and"
+                ]
+            },
+            {
+                "title": "A-frames 12.3",
+                "page": 219,
+                "subsections": [],
+                "micro_temas": [
+                    "stock",
+                    "the",
+                    "aframe",
+                    "conveyor",
+                    "and"
+                ]
+            },
+            {
+                "title": "In-aisle cranes, AS/RS, and their relatives",
+                "page": 222,
+                "subsections": [
+                    {
+                        "title": "12.3.1",
+                        "page": 222,
+                        "subsections": [],
+                        "micro_temas": [
+                            "stock",
+                            "the aframe",
+                            "and",
+                            "from",
+                            "storage"
+                        ]
+                    },
+                    {
+                        "title": "Throughput",
+                        "page": 222,
+                        "subsections": [],
+                        "micro_temas": [
+                            "stock",
+                            "the aframe",
+                            "and",
+                            "from",
+                            "storage"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "stock",
+                    "the aframe",
+                    "and",
+                    "from",
+                    "storage"
+                ]
+            },
+            {
+                "title": "12.4",
+                "page": 228,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "that",
+                    "carousel",
+                    "for"
+                ]
+            },
+            {
+                "title": "On the lighter side 12.5",
+                "page": 228,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "that",
+                    "carousel",
+                    "for"
+                ]
+            },
+            {
+                "title": "Questions",
+                "page": 230,
+                "subsections": [],
+                "micro_temas": [
+                    "what the",
+                    "stock",
+                    "question",
+                    "that",
+                    "carousel"
+                ]
+            },
+            {
+                "title": "Part V",
+                "page": 233,
+                "subsections": [],
+                "micro_temas": [
+                    "part special",
+                    "special topic",
+                    "topic"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "the",
+            "carousel",
+            "and",
+            "stock",
+            "this"
+        ]
+    },
+    {
+        "title": "Special topics",
+        "page": 233,
+        "subsections": [
+            {
+                "title": "Chapter 13",
+                "page": 237,
+                "subsections": [],
+                "micro_temas": [
+                    "there",
+                    "and",
+                    "trailer",
+                    "door",
+                    "freight"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "part special",
+            "special topic",
+            "topic"
+        ]
+    },
+    {
+        "title": "Crossdocking",
+        "page": 237,
+        "subsections": [
+            {
+                "title": "13.1",
+                "page": 237,
+                "subsections": [],
+                "micro_temas": [
+                    "there",
+                    "and",
+                    "trailer",
+                    "door",
+                    "freight"
+                ]
+            },
+            {
+                "title": "Why crossdock? 13.2",
+                "page": 237,
+                "subsections": [],
+                "micro_temas": [
+                    "there",
+                    "and",
+                    "trailer",
+                    "door",
+                    "freight"
+                ]
+            },
+            {
+                "title": "Operations 13.3",
+                "page": 238,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "door",
+                    "trailer",
+                    "freight",
+                    "and"
+                ]
+            },
+            {
+                "title": "Freight ﬂow",
+                "page": 239,
+                "subsections": [
+                    {
+                        "title": "13.3.1",
+                        "page": 239,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the dock",
+                            "door",
+                            "freight",
+                            "trailer",
+                            "forklift"
+                        ]
+                    },
+                    {
+                        "title": "Congestion",
+                        "page": 239,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the dock",
+                            "door",
+                            "freight",
+                            "trailer",
+                            "forklift"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the dock",
+                    "door",
+                    "freight",
+                    "trailer",
+                    "forklift"
+                ]
+            },
+            {
+                "title": "13.4",
+                "page": 241,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "door",
+                    "dock",
+                    "freight",
+                    "trailer"
+                ]
+            },
+            {
+                "title": "Design",
+                "page": 241,
+                "subsections": [
+                    {
+                        "title": "13.4.1",
+                        "page": 241,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "door",
+                            "dock",
+                            "freight",
+                            "trailer"
+                        ]
+                    },
+                    {
+                        "title": "Size 13.4.2",
+                        "page": 241,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "door",
+                            "dock",
+                            "freight",
+                            "trailer"
+                        ]
+                    },
+                    {
+                        "title": "Geometry",
+                        "page": 242,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the dock",
+                            "crossdock",
+                            "trailer",
+                            "freight",
+                            "feet"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the",
+                    "door",
+                    "dock",
+                    "freight",
+                    "trailer"
+                ]
+            },
+            {
+                "title": "13.5",
+                "page": 245,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "question",
+                    "crossdock",
+                    "for",
+                    "trailer"
+                ]
+            },
+            {
+                "title": "Trailer management 13.6",
+                "page": 245,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "question",
+                    "crossdock",
+                    "for",
+                    "trailer"
+                ]
+            },
+            {
+                "title": "Resources 13.7",
+                "page": 245,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "question",
+                    "crossdock",
+                    "for",
+                    "trailer"
+                ]
+            },
+            {
+                "title": "Questions",
+                "page": 246,
+                "subsections": [],
+                "micro_temas": [
+                    "crossdock question",
+                    "the",
+                    "crossdock",
+                    "for",
+                    "and"
+                ]
+            },
+            {
+                "title": "Part VI",
+                "page": 247,
+                "subsections": [],
+                "micro_temas": [
+                    "part measuring",
+                    "measuring warehouse",
+                    "warehouse performance",
+                    "performance"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "there",
+            "and",
+            "trailer",
+            "door",
+            "freight"
+        ]
+    },
+    {
+        "title": "Measuring warehouse performance",
+        "page": 247,
+        "subsections": [
+            {
+                "title": "Chapter 14",
+                "page": 251,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "warehouse",
+                    "sku",
+                    "activity",
+                    "and"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "part measuring",
+            "measuring warehouse",
+            "warehouse performance",
+            "performance"
+        ]
+    },
+    {
+        "title": "Activity proﬁling",
+        "page": 251,
+        "subsections": [
+            {
+                "title": "14.1",
+                "page": 251,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "warehouse",
+                    "sku",
+                    "activity",
+                    "and"
+                ]
+            },
+            {
+                "title": "Basics 14.2",
+                "page": 251,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "warehouse",
+                    "sku",
+                    "activity",
+                    "and"
+                ]
+            },
+            {
+                "title": "Warehouse activity proﬁling",
+                "page": 252,
+                "subsections": [
+                    {
+                        "title": "14.2.1",
+                        "page": 252,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the activity",
+                            "sku",
+                            "activity",
+                            "warehouse",
+                            "number"
+                        ]
+                    },
+                    {
+                        "title": "ABC analysis 14.2.2",
+                        "page": 252,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the activity",
+                            "sku",
+                            "activity",
+                            "warehouse",
+                            "number"
+                        ]
+                    },
+                    {
+                        "title": "Statistical analysis 14.2.3",
+                        "page": 254,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "product",
+                            "for",
+                            "and",
+                            "sku"
+                        ]
+                    },
+                    {
+                        "title": "Doing it 14.2.4",
+                        "page": 264,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the data",
+                            "data",
+                            "from",
+                            "and",
+                            "that"
+                        ]
+                    },
+                    {
+                        "title": "Visualization",
+                        "page": 269,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "understand",
+                            "warehouse",
+                            "you",
+                            "for"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the activity",
+                    "sku",
+                    "activity",
+                    "warehouse",
+                    "number"
+                ]
+            },
+            {
+                "title": "14.3",
+                "page": 269,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "understand",
+                    "warehouse",
+                    "you",
+                    "for"
+                ]
+            },
+            {
+                "title": "Summary 14.4",
+                "page": 269,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "understand",
+                    "warehouse",
+                    "you",
+                    "for"
+                ]
+            },
+            {
+                "title": "On the lighter side 14.5",
+                "page": 269,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "understand",
+                    "warehouse",
+                    "you",
+                    "for"
+                ]
+            },
+            {
+                "title": "Questions",
+                "page": 272,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "performance",
+                    "warehouse",
+                    "order",
+                    "for lin"
+                ]
+            },
+            {
+                "title": "Chapter 15",
+                "page": 273,
+                "subsections": [],
+                "micro_temas": [
+                    "other",
+                    "warehouse",
+                    "with",
+                    "and",
+                    "benchmarking"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "the",
+            "warehouse",
+            "sku",
+            "activity",
+            "and"
+        ]
+    },
+    {
+        "title": "Benchmarking",
+        "page": 273,
+        "subsections": [
+            {
+                "title": "15.1",
+                "page": 273,
+                "subsections": [],
+                "micro_temas": [
+                    "other",
+                    "warehouse",
+                    "with",
+                    "and",
+                    "benchmarking"
+                ]
+            },
+            {
+                "title": "Performance measurement 15.2",
+                "page": 273,
+                "subsections": [],
+                "micro_temas": [
+                    "other",
+                    "warehouse",
+                    "with",
+                    "and",
+                    "benchmarking"
+                ]
+            },
+            {
+                "title": "Benchmarking",
+                "page": 274,
+                "subsections": [
+                    {
+                        "title": "15.2.1",
+                        "page": 274,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "warehouse",
+                            "and",
+                            "benchmarking",
+                            "for"
+                        ]
+                    },
+                    {
+                        "title": "Ratio-based benchmarking 15.2.2",
+                        "page": 274,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "warehouse",
+                            "and",
+                            "benchmarking",
+                            "for"
+                        ]
+                    },
+                    {
+                        "title": "Aggregate benchmarking",
+                        "page": 275,
+                        "subsections": [],
+                        "micro_temas": [
+                            "warehouse",
+                            "the",
+                            "and",
+                            "that",
+                            "output"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the",
+                    "warehouse",
+                    "and",
+                    "benchmarking",
+                    "for"
+                ]
+            },
+            {
+                "title": "15.3",
+                "page": 282,
+                "subsections": [],
+                "micro_temas": [
+                    "the same",
+                    "more efficient",
+                    "and",
+                    "larger",
+                    "efficient"
+                ]
+            },
+            {
+                "title": "Are smaller warehouses more efﬁcient? 15.4",
+                "page": 282,
+                "subsections": [],
+                "micro_temas": [
+                    "the same",
+                    "more efficient",
+                    "and",
+                    "larger",
+                    "efficient"
+                ]
+            },
+            {
+                "title": "Questions",
+                "page": 284,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "warehouse warehouse",
+                    "question question",
+                    "question what",
+                    "and some"
+                ]
+            },
+            {
+                "title": "Part VII",
+                "page": 285,
+                "subsections": [],
+                "micro_temas": [
+                    "part vii",
+                    "vii miscellaneou",
+                    "miscellaneou"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "other",
+            "warehouse",
+            "with",
+            "and",
+            "benchmarking"
+        ]
+    },
+    {
+        "title": "Miscellaneous",
+        "page": 285,
+        "subsections": [
+            {
+                "title": "Chapter 16",
+                "page": 289,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "cost",
+                    "are",
+                    "for"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "part vii",
+            "vii miscellaneou",
+            "miscellaneou"
+        ]
+    },
+    {
+        "title": "Warehousing around the world",
+        "page": 289,
+        "subsections": [
+            {
+                "title": "16.1",
+                "page": 289,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "cost",
+                    "are",
+                    "for"
+                ]
+            },
+            {
+                "title": "North America 16.2",
+                "page": 289,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "cost",
+                    "are",
+                    "for"
+                ]
+            },
+            {
+                "title": "East Asia",
+                "page": 289,
+                "subsections": [
+                    {
+                        "title": "16.2.1",
+                        "page": 290,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "and",
+                            "cost",
+                            "labor",
+                            "for"
+                        ]
+                    },
+                    {
+                        "title": "India 16.2.2",
+                        "page": 290,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "and",
+                            "cost",
+                            "labor",
+                            "for"
+                        ]
+                    },
+                    {
+                        "title": "China 16.2.3",
+                        "page": 291,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "and",
+                            "floor",
+                            "labor",
+                            "warehouse"
+                        ]
+                    },
+                    {
+                        "title": "Singapore, Hong Kong, Japan",
+                        "page": 292,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "floor",
+                            "and",
+                            "warehouse",
+                            "trailer"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "cost",
+                    "are",
+                    "for"
+                ]
+            },
+            {
+                "title": "16.3",
+                "page": 294,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "warehous",
+                    "for",
+                    "this"
+                ]
+            },
+            {
+                "title": "Central and South America 16.4",
+                "page": 294,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "warehous",
+                    "for",
+                    "this"
+                ]
+            },
+            {
+                "title": "Europe",
+                "page": 295,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "warehous",
+                    "and",
+                    "which",
+                    "this"
+                ]
+            },
+            {
+                "title": "Chapter 17",
+                "page": 297,
+                "subsections": [],
+                "micro_temas": [
+                    "and",
+                    "chapter preparation",
+                    "they",
+                    "warehouse",
+                    "preparation"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "the",
+            "and",
+            "cost",
+            "are",
+            "for"
+        ]
+    },
+    {
+        "title": "In preparation",
+        "page": 297,
+        "subsections": [],
+        "micro_temas": [
+            "and",
+            "chapter preparation",
+            "they",
+            "warehouse",
+            "preparation"
+        ]
+    },
+    {
+        "title": "Bibliography",
+        "page": 299,
+        "subsections": [
+            {
+                "title": "Part VIII",
+                "page": 303,
+                "subsections": [],
+                "micro_temas": [
+                    "part viii",
+                    "viii appendiz",
+                    "appendiz"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "iii and",
+            "bartholdi iii",
+            "iii",
+            "the",
+            "for"
+        ]
+    },
+    {
+        "title": "Appendices",
+        "page": 303,
+        "subsections": [
+            {
+                "title": "Appendix A",
+                "page": 305,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "inventory",
+                    "and",
+                    "stock",
+                    "unit"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "part viii",
+            "viii appendiz",
+            "appendiz"
+        ]
+    },
+    {
+        "title": "Inventory and the economic order quantity (EOQ)",
+        "page": 305,
+        "subsections": [
+            {
+                "title": "A.1",
+                "page": 305,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "inventory",
+                    "and",
+                    "stock",
+                    "unit"
+                ]
+            },
+            {
+                "title": "The Economic Order Quantity",
+                "page": 305,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "inventory",
+                    "and",
+                    "stock",
+                    "unit"
+                ]
+            },
+            {
+                "title": "A.2",
+                "page": 308,
+                "subsections": [],
+                "micro_temas": [
+                    "safety stock",
+                    "lead time",
+                    "the",
+                    "safety",
+                    "order"
+                ]
+            },
+            {
+                "title": "Safety stock and reorder points",
+                "page": 308,
+                "subsections": [],
+                "micro_temas": [
+                    "safety stock",
+                    "lead time",
+                    "the",
+                    "safety",
+                    "order"
+                ]
+            },
+            {
+                "title": "A.3",
+                "page": 310,
+                "subsections": [],
+                "micro_temas": [
+                    "the knapsack",
+                    "stock",
+                    "and",
+                    "item",
+                    "which"
+                ]
+            },
+            {
+                "title": "Implications for the warehouse",
+                "page": 310,
+                "subsections": [],
+                "micro_temas": [
+                    "the knapsack",
+                    "stock",
+                    "and",
+                    "item",
+                    "which"
+                ]
+            },
+            {
+                "title": "Appendix B",
+                "page": 311,
+                "subsections": [],
+                "micro_temas": [
+                    "the knapsack",
+                    "item",
+                    "knapsack problem",
+                    "problem",
+                    "and"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "the",
+            "inventory",
+            "and",
+            "stock",
+            "unit"
+        ]
+    },
+    {
+        "title": "The Knapsack Problem",
+        "page": 311,
+        "subsections": [
+            {
+                "title": "Appendix C",
+                "page": 315,
+                "subsections": [],
+                "micro_temas": [
+                    "the shortest",
+                    "vertex",
+                    "label",
+                    "shortest path",
+                    "and"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "the knapsack",
+            "item",
+            "knapsack problem",
+            "problem",
+            "and"
+        ]
+    },
+    {
+        "title": "The Shortest Path Problem",
+        "page": 315,
+        "subsections": [],
+        "micro_temas": [
+            "the shortest",
+            "vertex",
+            "label",
+            "shortest path",
+            "and"
+        ]
+    },
+    {
+        "title": "Index",
+        "page": 321,
+        "subsections": [],
+        "micro_temas": [
+            "pick",
+            "stock",
+            "area",
+            "distribution center",
+            "center"
+        ]
+    }
+]

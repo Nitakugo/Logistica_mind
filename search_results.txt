@@ -1,0 +1,461 @@
+RESULTADOS DE BÚSQUEDA PARA: 'cross-docking'
+==================================================
+
+
+### PILLAR: 1. Supply Chain Strategist ###
+------------------------------
+
+Libro: Logistics  Supply Chain Management (Martin Christopher) (z-library.sk, 1lib.sk, z-lib.sk).pdf
+
+[Página 162]
+Similar developments have enabled the transformation of retail logistics. The idea 
+of ‘stockless distribution centres’ or ‘cross-docking’ enables a more frequent and 
+efficient replenishment of product from manufacture to individual stores. Cross-
+docking, often facilitated by a logistics service provider, is a simple, but powerful, 
+concept. Point-of-sale data from individual stores is transmitted to the retailer’s 
+head office to enable them to determine replenishment requirements. This informa-
+tion is then transmitted directly to the suppliers who assemble orders for specific 
+stores and the pallets or cases are then bar-coded (or increasingly electroni-
+cally tagged). On a pre-planned basis these store orders are then collected by 
+the logistics service provider and are taken to a transhipment centre (the ‘cross-
+dock’ facility) – possibly operated by the logistics service provider – where they 
+are sorted for store delivery along with other suppliers’ orders. In effect, a just-in-
+time delivery is achieved, which enables minimum stock to be carried in the retail 
+stores, and yet transport costs are contained through the principles of consolida-
+tion (see Figures 7.6 and 7.7).
+----------
+
+[Página 261]
+Clearly decisions on the mode of transport will affect the carbon footprint of a 
+supply chain as will the extent to which transport capacity is efficiently used. 
+However, the nature of the delivery network (i.e. the number, location and design 
+of distribution centres, the use of hub and spoke arrangements, the extent of 
+cross-docking, etc.) can have a wider impact on supply chain sustainability.
+ 
+many companies have used network optimisation models to help determine the 
+shape of their distribution arrangements. However, these models tend to optimise 
+on a narrow definition of cost rather than taking into account the wider resource 
+footprint that is created by the network. A new generation of network optimisation 
+tools is now emerging which take account of the carbon footprint as well as the 
+more conventional costs.
+----------
+
+[Página 282]
+identifying 200–2
+   managing 202–3
+   see also supply chain
+critical value analysis 50
+Crocs 266
+cross-docking 150, 254
+cross-functional teams 205, 234
+current assets 60
+current liabilities 61
+customer complexity 163, 168
+customer retention 219
+customer service 30–7, 49, 55
+   augmenting core product 35
+   and competitive advantage 28
+   components 31–2, 32, 40, 41  
+   composite index 54
+   cost 44
+   cost/benefit analysis 43–6
+   definition 30–1
+   and 80/20 rule (Pareto) 49
+   functional (conventional) organisations 
+232
+   global management 183
+   goals 70–1
+   and inventory investment 45
+   and marketing effectiveness 34, 36
+   objectives 42–3
+   priority setting 46–50
+   relationship management 219
+   reliability 23
+   and retention 34–7
+   segment identification 41–2
+   standards 50–4
+customer value 
+   and supply chain strategy 39
+customers
+   costs of average 74
+   80/20 rule (Pareto) 46, 46, 49–50, 165–6, 
+168
+   expectations 22–3, 28
+   lifetime value 36
+   local differences 177
+   needs identification 39–42
+   profit and loss account 74, 75
+   profitability accounting 72
+   profitability analysis 73, 72–6, 76
+   profitability matrix 77
+   reaction to stock-outs 33
+   relationship marketing 28
+   responsiveness to 23, 115–16
+----------
+
+Libro: Supply Chain Management Strategy, Planning, and Operation (Sunil Chopra, Peter Meindl) (z-library.sk, 1lib.sk, z-lib.sk).pdf
+
+[Página 60]
+Consider this framework using Walmart as an example. Walmart’s competitive strategy 
+is to be a reliable, low-cost retailer for a wide variety of mass-consumption goods. This strat-
+egy dictates that the ideal supply chain will emphasize efficiency but also maintain an ade-
+quate level of responsiveness in terms of product availability. Walmart uses the three logistical 
+and three cross-functional drivers effectively to achieve this type of supply chain performance. 
+With the inventory driver, Walmart maintains an efficient supply chain by keeping low levels 
+of inventory. For instance, Walmart pioneered cross-docking, a system in which inventory is 
+not stocked in a warehouse but rather is shipped to stores from the manufacturer with a brief 
+stop at a distribution center (DC), where product is transferred from inbound trucks from the 
+supplier to outbound trucks to the retail store. This lowers inventory significantly because 
+products are stocked only at stores, not at both stores and warehouses. With respect to inven-
+tory, Walmart favors efficiency over responsiveness. On the transportation front, Walmart runs 
+its own fleet, to keep responsiveness high. This increases transportation cost, but the benefits 
+in terms of reduced inventory and improved product availability justify this cost in Walmart’s 
+case. In the case of facilities, Walmart uses centrally located DCs within its network of stores 
+to decrease the number of facilities and increase efficiency at each DC. Walmart builds retail 
+stores only where the demand is sufficient to justify having several of them supported by a DC, 
+thereby increasing efficiency of its transportation assets. Walmart has invested significantly 
+more than its competitors in information technology, allowing the company to feed demand 
+information across the supply chain to suppliers that manufacture only what is being demanded. 
+As a result, Walmart is a leader in its use of the information driver to improve responsiveness 
+and decrease inventory investment. With regard to the sourcing driver, Walmart identifies effi-
+cient sources for each product it sells. Walmart feeds them large orders, allowing them to be 
+efficient by exploiting economies of scale. Finally, for the pricing driver, Walmart practices 
+“everyday low pricing” (EDLP) for its products. This ensures that customer demand stays 
+steady and does not fluctuate with price variations. The entire supply chain then focuses on 
+meeting this demand in an efficient manner. Walmart uses all the supply chain drivers to 
+achieve the right balance between responsiveness and efficiency so its competitive strategy 
+and supply chain strategy are in harmony.
+----------
+
+[Página 61]
+For warehouses and DCs, firms must decide whether they will be primarily cross-docking 
+facilities or storage facilities. At cross-docking facilities, inbound trucks from suppliers are 
+unloaded; the product is broken into smaller lots and is quickly loaded onto store-bound trucks. 
+Each store-bound truck carries a variety of products, some from each inbound truck. For storage 
+facilities, firms must decide on the products to be stored at each facility.
+----------
+
+[Página 66]
+Good information can help improve the utilization of supply chain assets and the coordination of 
+supply chain flows to increase responsiveness and reduce costs. Seven-Eleven Japan uses infor-
+mation to improve product availability while decreasing inventories. Walmart uses information 
+on shipments from suppliers to facilitate cross-docking and lower inventory and transportation 
+expense. Li & Fung, a global trading group supplying time-sensitive consumer goods such as 
+apparel, uses information on its third-party manufacturers to source each order from the most 
+appropriate supplier. Airlines routinely use information to offer the right number of seats at a 
+discount price, leaving sufficient seats for business customers who make reservations at the last 
+minute and are willing to pay a higher price. Each of these examples illustrates the importance of 
+information as a key driver that can be used to provide higher responsiveness while simultane-
+ously improving efficiency.
+----------
+
+[Página 271]
+Managers can take a variety of actions at different stages of the supply chain to help reduce 
+replenishment lead times. Ordering electronically, either online or through electronic data inter-
+change (EDI), can significantly cut the lead time associated with order placement and informa-
+tion transfer. If every stage shares its long-term plans with suppliers, potential orders can be 
+scheduled into production well in advance, with the precise quantity being determined closer to 
+actual production. This reduces the scheduling time, which is often the largest component of lead 
+time. At manufacturing plants, increased flexibility and cellular manufacturing can be used to 
+achieve a significant reduction in lead times. A dampening of information distortion further 
+reduces lead times because of stabilized demand and, as a result, improved scheduling. This is 
+particularly true when manufacturing produces a large variety of products. Advance shipping 
+notices (ASNs) can be used to reduce the lead time as well as efforts associated with receiving. 
+Cross-docking can be used to reduce the lead time associated with moving the product between 
+stages in the supply chain. Walmart has used many of these approaches to significantly reduce 
+lead time within its supply chain.
+----------
+
+[Página 291]
+Walmart and other retailers, such as Seven-Eleven Japan, have facilitated aggregation 
+across multiple supply and delivery points without storing intermediate inventories through the 
+use of cross-docking. Each supplier sends full truckloads to the DC, containing an aggregate 
+delivery destined for multiple retail stores. At the DC, each inbound truck is unloaded, product is 
+cross-docked, and outbound trucks are loaded. Each outbound truck now contains product aggre-
+gated from several suppliers destined for one retail store.
+----------
+
+[Página 316]
+For a simple multiechelon supply chain with only one player at each stage, ordering policies 
+in which the lot size at each stage is an integer multiple of the lot size at its immediate customer 
+have been shown to be quite close to optimal. When lot sizes are integer multiples, coordination of 
+ordering across stages allows for a portion of the delivery to a stage to be cross-docked on to the 
+next stage. The extent of cross-docking depends on the ratio of the fixed cost of ordering S and the 
+holding cost H at each stage. The closer this ratio is between two stages, the higher is the optimal 
+percentage of cross-docked product. Munson, Hu, and Rosenblatt (2003) provide optimal order 
+quantities in a multiechelon setting with a single manufacturer supplying a single retailer.
+----------
+
+[Página 317]
+• Divide all parties within a stage into groups such that all parties within a group order from 
+the same supplier and have the same reorder interval.
+• Set reorder intervals across stages such that the receipt of a replenishment order at any 
+stage is synchronized with the shipment of a replenishment order to at least one customer. 
+The synchronized portion can be cross-docked.
+• For customers with a longer reorder interval than the supplier, make the customer’s reorder 
+interval an integer multiple of the supplier’s interval and synchronize replenishment at the 
+two stages to facilitate cross-docking. In other words, a supplier should cross-dock all 
+orders from customers that reorder less frequently than the supplier.
+----------
+
+[Página 317]
+Integer replenishment policies can be synchronized in multiechelon supply chains to keep cycle inventory 
+and order costs low. Under such policies, the reorder interval at any stage is an integer multiple of a base 
+reorder interval. Synchronized integer replenishment policies facilitate a high level of cross-docking 
+across the supply chain.
+----------
+
+[Página 318]
+two stages to facilitate cross-docking. In other words, a supplier should cross-dock one out 
+of every k shipments to a customer that orders more frequently than the supplier, where k 
+is an integer.
+• The relative frequency of reordering depends on the setup cost, holding cost, and demand 
+at different parties.
+----------
+
+[Página 422]
+1.	 Should transportation be direct or through an intermediate site?
+	 2.	 Should the intermediate site stock product or only serve as a cross-docking location?
+	 3.	 Should each delivery route supply a single destination or multiple destinations (milk run,
+----------
+
+[Página 424]
+All Shipments via Intermediate Transit Point with Cross-Docking
+----------
+
+[Página 424]
+Under this option, suppliers send their shipments to an intermediate transit point (which could be 
+a DC), where they are cross-docked and sent to buyer locations without storing them. The prod-
+uct flow is similar to that shown in Figure 14-4 except that there is no storage at the intermediate 
+facility. When a DC cross-docks product, each inbound truck contains product from suppliers for 
+several buyer locations, whereas each outbound truck contains product for one buyer location 
+from several suppliers. Major benefits of cross-docking are that little inventory needs to be held 
+and product flows faster in the supply chain. Cross-docking also saves on handling cost because 
+product does not have to be moved into and out of storage. Cross-docking is appropriate when 
+economies of scale in transportation can be achieved on both the inbound and outbound sides 
+and both inbound and outbound shipments can be coordinated.
+----------
+
+[Página 425]
+Walmart has used cross-docking successfully to decrease inventories in the supply chain 
+without incurring excessive transportation costs. Walmart builds many large stores in a geo-
+graphic area supported by a DC. As a result, the total lot size to all stores from each supplier 
+fills trucks on the inbound side to achieve economies of scale. On the outbound side, the sum of 
+the lot sizes from all suppliers to each retail store fills up the truck to achieve economies of 
+scale.
+----------
+
+[Página 425]
+Another good example of the use of a transit point with cross-docking comes from Pea-
+pod in the Chicago area. Peapod has a DC in Lake Zurich from which it delivers to its custom-
+ers using milk runs. This approach proved effective for customers in the northern and western 
+suburbs of Chicago. Peapod, however, wanted to increase its reach to the city of Chicago and 
+the city of Milwaukee. Both are far enough from the Lake Zurich DC that a milk run wasted 
+about two hours in transit, making no productive deliveries. These markets were also small 
+enough that they did not justify a local DC. Peapod’s response has been to set up a cross- 
+docking facility (which tends to be cheaper than a DC because no storage is involved) at each 
+location. Peapod then sends out all deliveries to the local cross-docking facility in a larger truck 
+and uses smaller trucks for local deliveries. The use of cross-docking at a transit point has 
+allowed Peapod to increase the reach of the Lake Zurich DC without significantly increasing 
+transportation expense.
+----------
+
+[Página 425]
+As shown in Figure 14-5, milk runs can be used from a DC if lot sizes to be delivered to each 
+buyer location are small. Milk runs reduce outbound transportation costs by consolidating small 
+shipments. For example, Seven-Eleven Japan cross-docks deliveries from its fresh-food suppli-
+ers at its DCs and sends out milk runs to the retail outlets because the total shipment to a store 
+from all suppliers does not fill a truck. The use of cross-docking and milk runs allows Seven-
+Eleven Japan to lower its transportation cost while sending small replenishment lots to each 
+store. The use of cross-docking with milk runs requires a significant degree of coordination and 
+suitable routing and scheduling.
+----------
+
+[Página 426]
+The tailored network option is a suitable combination of previous options that reduces the cost 
+and improves the responsiveness of the supply chain. Here, transportation uses a combination of 
+cross-docking, milk runs, and TL and LTL carriers, along with package carriers in some cases. 
+The goal is to use the appropriate option in each situation. High-demand products may be shipped 
+directly to high-demand retail outlets, whereas low-demand products or shipments to low-
+demand retail outlets are consolidated to and from the DC. The complexity of managing this 
+transportation network is high because different shipping procedures are used for each product 
+and retail outlet. Operating a tailored network requires significant investment in information 
+infrastructure to facilitate the coordination. Such a network, however, allows for the selective use 
+of a shipment method to minimize the transportation as well as inventory costs.
+----------
+
+[Página 428]
+Imagine trying to pick up and deliver 150,000 hot lunches on time every day in a city where 
+traffic is normally gridlocked. Getting such a distribution system to be financially successful 
+has defeated many dotcom startups, such as Urbanfetch and Kozmo.com, that operated in cit-
+ies like London and New York. The Mumbai dabbawalas, however, have successfully run such 
+a distribution system for more than a century—while charging customers about $7/month for 
+this service, and including reverse logistics: all empty lunchboxes are delivered back home 
+after lunch. Their distribution network uses several ideas discussed earlier, from milk runs to 
+cross-docking.
+----------
+
+[Página 443]
+units) from each supplier to multiple stores in Ari-
+zona. The small truck carrier charged $2,000 per 
+shipment and $50 per delivery. Thus, a milk run from 
+a supplier to four stores would cost $2,200. Milk 
+runs would incur higher transportation costs than 
+direct shipping but would keep inventory costs lower.
+	
+3.	 Use a third-party cross-docking facility in Arizona
+----------
+
+[Página 443]
+that charged $0.10 per unit for this cross-docking 
+service. This would allow all suppliers to ship 
+product (destined for all 32 Arizona stores) using a 
+large truck to the cross-dock facility, where it 
+would be cross-docked and sent to stores in smaller 
+trucks (each smaller truck would now contain 
+product from all eight suppliers). Large trucks 
+(capacity of 40,000 units) charge $4,150 from each 
+supplier to the cross-dock facility. Small trucks 
+(capacity of 10,000 units) charge $250 from the 
+cross-dock facility to each retail store in Arizona.
+----------
+
+[Página 523]
+(CRM)
+Cross-docking, 411–412
+Cross-enterprise collaboration, 427
+CRP. See Continuous replenishment program (CRP)
+CSL. See Cycle service level (CSL)
+CSR. See Corporate Social Responsibility (CSR)
+----------
+
+[Página 523]
+D
+Dabbawalas. See Mumbai dabbawalas
+Data accuracy, APS and, 225
+Data leakage, 440
+Days payable outstanding, 57
+Days sales outstanding, 57
+DC cross-docks, 411. See also Cross-docking
+DCF. See Discounted cash flows (DCF)
+DC milk-run shipments, 412
+DC replenishment collaboration, 263
+Decision making, transportation, 427–428
+Decision trees, 153–160, 162
+----------
+
+[Página 528]
+average inbound transportation cost per, 53
+DC using milk runs, 412
+DC with storage, 411
+direct, 409–411
+incoming, average size, 53
+outbound, average size, 53
+transit point with cross-docking, 411–412
+Shipper, 401. See also Transportation
+Shortage gaming, 254
+Short-term discounting, 57, 297–299
+Siemens VAI, 501
+Simple exponential smoothing method,
+----------
+
+[Página 529]
+concept, 297
+cycle inventory, 297–302
+forward buying and, 298–300
+goal of, 298
+Transition probability, 154
+Transit point with cross-docking, 411–412
+Transportation, 44, 52–53
+----------
+
+Libro: The Resilient Enterprise Overcoming Vulnerability for Competitive Advantage (Yossi Sheffi) (z-library.sk, 1lib.sk, z-lib.sk).pdf
+
+[Página 112]
+Wal-Mart developed cross-docking processes in which goods come from
+the suppliers to Wal-Mart's distribution centers (DCs) and are moved
+immediately to the stores. This process reduced DC warehousing costs
+and, more important, eliminated an echelon in the distribution chain.
+Rather than ordering from the store to the DC and from the DC to the
+suppliers, the stores were, in fact, ordering directly from the suppliers.
+----------
+
+### PILLAR: 2. Warehouse Operations Expert ###
+------------------------------
+
+Libro: Warehouse  Distribution Science (John J. BARTHOLDI etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf
+
+[Página 299]
+[8] J. J. Bartholdi, III and K. R. Gue. Reducing labor costs in an ltl cross-docking
+terminal. Oper. Res., 48(6):823–832, 2000.
+----------
+
+### PILLAR: 4. Transport & Distribution Expert ###
+------------------------------
+
+Libro: Transportation - a global supply chain perspective (Coyle, John Joseph, Gibson, Brian J. etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf
+
+[Página 158]
+The examination of LTL and TL operations might result in the conclusion that they are sig-
+nificantly different in how they operate. Actually, they are very similar. The major difference 
+between the two is in the dock rehandling (or cross-docking) that is associated with the LTL 
+operations, not the TL. However, to move a shipment, both operations provide a pickup ser-
+vice, a line-haul service, and a delivery service. These three activities, along with dock rehan-
+dling for LTL, can be used to begin to break out the appropriate costs associated with a move.
+----------
+
+[Página 311]
+Council of Supply Chain Management Professionals: outsourcing all or 
+much of a company’s logistics operations to a specialized company. The 
+term 3PL was first used in the early 1970s to identify intermodal marketing 
+companies (IMCs) in transportation contracts. Up to that point, contracts for 
+transportation had featured only two parties, the shipper and the carrier. When 
+IMCs entered the picture—as intermediaries that accepted shipments from the 
+shippers and tendered them to the rail carriers—they became the third party to 
+the contract, the 3PL. Definitions have broadened to the point where these days, 
+every company that offers some kind of logistics service for hire calls itself a 3PL. 
+Preferably, these services are integrated, or “bundled,” together by the provider. 
+Services they provide are transportation, warehousing, cross-docking, inventory 
+management, packaging, and freight forwarding. In 2008, legislation passed 
+declaring that the legal definition of a 3PL is “A person who solely receives, 
+holds, or otherwise transports a consumer product in the ordinary course of 
+business but who does not take title to the product.”4
+----------
+
+[Página 324]
+Cross-docking
+34%
+----------
+
+Libro: Transportation：A Global Supply Chain Perspective (Novack, Robert A.Gibson, BrianSuzuki etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf
+
+[Página 140]
+The examination of LTL and TL operations might result in the conclusion that they are significantly 
+different in how they operate. Actually, they are very similar. The major difference between the two 
+is in the dock rehandling (or cross-docking) that is associated with the LTL operations, not the TL. 
+However, to move a shipment, both operations provide a pickup service, a line-haul service, and a 
+delivery service. These three activities, along with dock rehandling for LTL, can be used to begin to 
+break out the appropriate costs associated with a move.
+----------
+
+[Página 281]
+●
+Council of Supply Chain Management Professionals: outsourcing all or much of a compa-
+ny’s logistics operations to a specialized company. The term 3PL was first used in the early 
+1970s to identify intermodal marketing companies (IMCs) in transportation contracts. Up 
+to that point, contracts for transportation had featured only two parties, the shipper and the 
+carrier. When IMCs entered the picture—as intermediaries that accepted shipments from 
+the shippers and tendered them to the rail carriers—they became the third party to the con-
+tract, the 3PL. Definitions have broadened to the point where these days, every company that 
+offers some kind of logistics service for hire calls itself a 3PL. Preferably, these services are 
+integrated, or “bundled,” together by the provider. Services they provide are transportation, 
+warehousing, cross-docking, inventory management, packaging, and freight forwarding. In 
+2008, a legislation passed declaring that the legal definition of a 3PL is “A person who solely 
+receives, holds, or otherwise transports a consumer product in the ordinary course of business 
+but who does not take title to the product.”4
+----------
+
+[Página 294]
+Cross-Docking
+35%
+----------

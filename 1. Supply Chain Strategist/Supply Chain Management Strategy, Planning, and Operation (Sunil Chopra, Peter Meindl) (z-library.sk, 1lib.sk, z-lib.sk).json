@@ -1,0 +1,1627 @@
+[
+    {
+        "title": "Supply Chain Management",
+        "page": 2,
+        "subsections": [
+            {
+                "title": "t r at e gy",
+                "page": 2,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "andor",
+                    "supply chain",
+                    "any",
+                    "management"
+                ]
+            },
+            {
+                "title": ", P",
+                "page": 2,
+                "subsections": [
+                    {
+                        "title": "lanning and pe r at ion",
+                        "page": 2,
+                        "subsections": [
+                            {
+                                "title": "S i x t h  E d i t i o n",
+                                "page": 2,
+                                "subsections": [],
+                                "micro_temas": [
+                                    "the",
+                                    "andor",
+                                    "supply chain",
+                                    "any",
+                                    "management"
+                                ]
+                            }
+                        ],
+                        "micro_temas": [
+                            "the",
+                            "andor",
+                            "supply chain",
+                            "any",
+                            "management"
+                        ]
+                    },
+                    {
+                        "title": "Sunil Chopra",
+                        "page": 2,
+                        "subsections": [
+                            {
+                                "title": "Kellogg School of Management",
+                                "page": 2,
+                                "subsections": [],
+                                "micro_temas": [
+                                    "the",
+                                    "andor",
+                                    "supply chain",
+                                    "any",
+                                    "management"
+                                ]
+                            }
+                        ],
+                        "micro_temas": [
+                            "the",
+                            "andor",
+                            "supply chain",
+                            "any",
+                            "management"
+                        ]
+                    },
+                    {
+                        "title": "Peter Meindl",
+                        "page": 2,
+                        "subsections": [
+                            {
+                                "title": "Kepos Capital",
+                                "page": 2,
+                                "subsections": [
+                                    {
+                                        "title": "Dedication",
+                                        "page": 4,
+                                        "subsections": [],
+                                        "micro_temas": [
+                                            "supply chain",
+                                            "and",
+                                            "the",
+                                            "for",
+                                            "management"
+                                        ]
+                                    },
+                                    {
+                                        "title": "I would like to thank my colleagues at Kellogg for all I have learned from them about logistics and supply chain management. I am grateful for the love and encouragement that my parents, Krishan and Pushpa, and sisters, Sudha and Swati, have always provided during every endeavor in my life. I thank my children, Ravi and Rajiv, for the joy they have brought me. Finally, none of this would have been possible without the constant love, caring, and support of my wife, Maria Cristina. —Sunil Chopra",
+                                        "page": 4,
+                                        "subsections": [],
+                                        "micro_temas": [
+                                            "supply chain",
+                                            "and",
+                                            "the",
+                                            "for",
+                                            "management"
+                                        ]
+                                    },
+                                    {
+                                        "title": "I would like to thank three mentors—Sunil Chopra, Hau Lee, and Gerry",
+                                        "page": 4,
+                                        "subsections": [],
+                                        "micro_temas": [
+                                            "supply chain",
+                                            "and",
+                                            "the",
+                                            "for",
+                                            "management"
+                                        ]
+                                    },
+                                    {
+                                        "title": "Lieberman—who have taught me a great deal. Thank you also to my parents and sister for their love, and to my sons, Jamie and Eric, for making me smile and teaching me what life is truly all about. Most important, I thank my wife,",
+                                        "page": 4,
+                                        "subsections": [],
+                                        "micro_temas": [
+                                            "supply chain",
+                                            "and",
+                                            "the",
+                                            "for",
+                                            "management"
+                                        ]
+                                    },
+                                    {
+                                        "title": "Sarah, who makes life wonderful and whom I love with all my heart. —Peter Meindl",
+                                        "page": 4,
+                                        "subsections": [],
+                                        "micro_temas": [
+                                            "supply chain",
+                                            "and",
+                                            "the",
+                                            "for",
+                                            "management"
+                                        ]
+                                    }
+                                ],
+                                "micro_temas": [
+                                    "the",
+                                    "andor",
+                                    "supply chain",
+                                    "any",
+                                    "management"
+                                ]
+                            }
+                        ],
+                        "micro_temas": [
+                            "the",
+                            "andor",
+                            "supply chain",
+                            "any",
+                            "management"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the",
+                    "andor",
+                    "supply chain",
+                    "any",
+                    "management"
+                ]
+            },
+            {
+                "title": "About the Authors",
+                "page": 4,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "and",
+                    "the",
+                    "for",
+                    "management"
+                ]
+            },
+            {
+                "title": "Contents",
+                "page": 5,
+                "subsections": [
+                    {
+                        "title": "Part I",
+                        "page": 5,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "network design",
+                            "decision",
+                            "and"
+                        ]
+                    },
+                    {
+                        "title": "Building a Strategic Framework to Analyze Supply",
+                        "page": 5,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "network design",
+                            "decision",
+                            "and"
+                        ]
+                    },
+                    {
+                        "title": "Chains",
+                        "page": 5,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "network design",
+                            "decision",
+                            "and"
+                        ]
+                    },
+                    {
+                        "title": "Part II",
+                        "page": 6,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "network design",
+                            "and",
+                            "aggregate planning"
+                        ]
+                    },
+                    {
+                        "title": "Designing the Supply Chain Network",
+                        "page": 6,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "network design",
+                            "and",
+                            "aggregate planning"
+                        ]
+                    },
+                    {
+                        "title": "Part III",
+                        "page": 6,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "network design",
+                            "and",
+                            "aggregate planning"
+                        ]
+                    },
+                    {
+                        "title": "Planning and Coordinating Demand and Supply in a",
+                        "page": 6,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "network design",
+                            "and",
+                            "aggregate planning"
+                        ]
+                    },
+                    {
+                        "title": "Supply Chain",
+                        "page": 6,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "network design",
+                            "and",
+                            "aggregate planning"
+                        ]
+                    },
+                    {
+                        "title": "Part IV",
+                        "page": 8,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "safety inventory",
+                            "appendix",
+                            "transportation"
+                        ]
+                    },
+                    {
+                        "title": "Planning and Managing Inventories in a Supply Chain",
+                        "page": 8,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "safety inventory",
+                            "appendix",
+                            "transportation"
+                        ]
+                    },
+                    {
+                        "title": "Part V",
+                        "page": 9,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "chain the",
+                            "pricing and",
+                            "revenue management",
+                            "transportation"
+                        ]
+                    },
+                    {
+                        "title": "Designing and Planning Transportation Networks",
+                        "page": 9,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "chain the",
+                            "pricing and",
+                            "revenue management",
+                            "transportation"
+                        ]
+                    },
+                    {
+                        "title": "Part VI",
+                        "page": 9,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "chain the",
+                            "pricing and",
+                            "revenue management",
+                            "transportation"
+                        ]
+                    },
+                    {
+                        "title": "Managing Cross-Functional Drivers in a Supply Chain",
+                        "page": 9,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "chain the",
+                            "pricing and",
+                            "revenue management",
+                            "transportation"
+                        ]
+                    },
+                    {
+                        "title": "Part VII",
+                        "page": 10,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the book",
+                            "and",
+                            "chapter",
+                            "management"
+                        ]
+                    },
+                    {
+                        "title": "Online Chapter",
+                        "page": 10,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the book",
+                            "and",
+                            "chapter",
+                            "management"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "network design",
+                    "decision",
+                    "and"
+                ]
+            },
+            {
+                "title": "Preface",
+                "page": 11,
+                "subsections": [
+                    {
+                        "title": "New To This Edition",
+                        "page": 11,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the book",
+                            "and",
+                            "chapter",
+                            "for"
+                        ]
+                    },
+                    {
+                        "title": "For Instructors",
+                        "page": 12,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the book",
+                            "and",
+                            "performance",
+                            "this"
+                        ]
+                    },
+                    {
+                        "title": "Acknowledgments",
+                        "page": 13,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the supply",
+                            "and",
+                            "state university",
+                            "customer"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "supply chain",
+                    "the book",
+                    "and",
+                    "chapter",
+                    "for"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "the",
+            "andor",
+            "supply chain",
+            "any",
+            "management"
+        ]
+    },
+    {
+        "title": "Understanding the",
+        "page": 14,
+        "subsections": [],
+        "micro_temas": [
+            "supply chain",
+            "the supply",
+            "and",
+            "the customer",
+            "product"
+        ]
+    },
+    {
+        "title": "Supply Chain",
+        "page": 14,
+        "subsections": [
+            {
+                "title": "Discussion Questions",
+                "page": 30,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the supply",
+                    "and",
+                    "decision",
+                    "process"
+                ]
+            },
+            {
+                "title": "Bibliography",
+                "page": 31,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the supply",
+                    "and",
+                    "management review",
+                    "product"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "supply chain",
+            "the supply",
+            "and",
+            "the customer",
+            "product"
+        ]
+    },
+    {
+        "title": "Supply Chain Performance",
+        "page": 32,
+        "subsections": [
+            {
+                "title": "Achieving Strategic Fit and Scope",
+                "page": 32,
+                "subsections": [
+                    {
+                        "title": "Discussion Questions",
+                        "page": 49,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "and",
+                            "that",
+                            "strategic fit"
+                        ]
+                    },
+                    {
+                        "title": "Bibliography",
+                        "page": 49,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "and",
+                            "that",
+                            "strategic fit"
+                        ]
+                    },
+                    {
+                        "title": "Case Study",
+                        "page": 50,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "and",
+                            "the",
+                            "netflix",
+                            "blockbuster"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "supply chain",
+                    "the product",
+                    "and",
+                    "product",
+                    "competitive strategy"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "supply chain",
+            "the product",
+            "and",
+            "product",
+            "competitive strategy"
+        ]
+    },
+    {
+        "title": "Supply Chain Drivers and Metrics",
+        "page": 53,
+        "subsections": [
+            {
+                "title": "Discussion Questions",
+                "page": 73,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "and",
+                    "seveneleven japan",
+                    "stock"
+                ]
+            },
+            {
+                "title": "Bibliography",
+                "page": 74,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "seveneleven japan",
+                    "and",
+                    "seveneleven"
+                ]
+            },
+            {
+                "title": "Case Study",
+                "page": 74,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "seveneleven japan",
+                    "and",
+                    "seveneleven"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "supply chain",
+            "the",
+            "and",
+            "financial",
+            "performance"
+        ]
+    },
+    {
+        "title": "Designing Distribution",
+        "page": 82,
+        "subsections": [],
+        "micro_temas": [
+            "the supply",
+            "supply chain",
+            "distribution network",
+            "and",
+            "network"
+        ]
+    },
+    {
+        "title": "Networks and Applications to Online Sales",
+        "page": 82,
+        "subsections": [
+            {
+                "title": "Discussion Questions",
+                "page": 115,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "supply chain",
+                    "and",
+                    "for",
+                    "diamond"
+                ]
+            },
+            {
+                "title": "Bibliography",
+                "page": 115,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "supply chain",
+                    "and",
+                    "for",
+                    "diamond"
+                ]
+            },
+            {
+                "title": "Case Study",
+                "page": 116,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "diamond",
+                    "blue nile",
+                    "nile"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "the supply",
+            "supply chain",
+            "distribution network",
+            "and",
+            "network"
+        ]
+    },
+    {
+        "title": "Network Design in the",
+        "page": 121,
+        "subsections": [],
+        "micro_temas": [
+            "supply chain",
+            "the",
+            "demand",
+            "network design",
+            "design decision"
+        ]
+    },
+    {
+        "title": "Supply Chain",
+        "page": 121,
+        "subsections": [
+            {
+                "title": "Discussion Questions",
+                "page": 146,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "and",
+                    "cost",
+                    "location"
+                ]
+            },
+            {
+                "title": "Exercises",
+                "page": 147,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "cost",
+                    "and",
+                    "are",
+                    "supply chain"
+                ]
+            },
+            {
+                "title": "Bibliography",
+                "page": 151,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "supply chain",
+                    "demand",
+                    "cost",
+                    "warehouse"
+                ]
+            },
+            {
+                "title": "Case Study",
+                "page": 152,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "supply chain",
+                    "demand",
+                    "cost",
+                    "warehouse"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "supply chain",
+            "the",
+            "demand",
+            "network design",
+            "design decision"
+        ]
+    },
+    {
+        "title": "Designing Global Supply",
+        "page": 155,
+        "subsections": [],
+        "micro_temas": [
+            "supply chain",
+            "the",
+            "and",
+            "global supply",
+            "that"
+        ]
+    },
+    {
+        "title": "Chain Networks",
+        "page": 155,
+        "subsections": [
+            {
+                "title": "Discussion Questions",
+                "page": 182,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "and",
+                    "year",
+                    "that"
+                ]
+            },
+            {
+                "title": "Exercises",
+                "page": 183,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "supply chain",
+                    "year",
+                    "and",
+                    "percent"
+                ]
+            },
+            {
+                "title": "Bibliography",
+                "page": 184,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "and",
+                    "for",
+                    "million"
+                ]
+            },
+            {
+                "title": "Case Study",
+                "page": 185,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "and",
+                    "fixed cost",
+                    "plant"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "supply chain",
+            "the",
+            "and",
+            "global supply",
+            "that"
+        ]
+    },
+    {
+        "title": "Demand Forecasting in a Supply Chain",
+        "page": 190,
+        "subsections": [
+            {
+                "title": "Discussion Questions",
+                "page": 217,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "demand for",
+                    "forecasting",
+                    "year"
+                ]
+            },
+            {
+                "title": "Exercises",
+                "page": 218,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "demand for",
+                    "supply chain",
+                    "forecasting",
+                    "with"
+                ]
+            },
+            {
+                "title": "Bibliography",
+                "page": 219,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "demand for",
+                    "supply chain",
+                    "forecasting",
+                    "spc"
+                ]
+            },
+            {
+                "title": "Case Study",
+                "page": 220,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "demand for",
+                    "supply chain",
+                    "forecast",
+                    "container"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "supply chain",
+            "the supply",
+            "forecasting",
+            "demand",
+            "are"
+        ]
+    },
+    {
+        "title": "Aggregate Planning in a Supply Chain",
+        "page": 222,
+        "subsections": [
+            {
+                "title": "Discussion Questions",
+                "page": 240,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "per",
+                    "cost",
+                    "for"
+                ]
+            },
+            {
+                "title": "Exercises",
+                "page": 240,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "per",
+                    "cost",
+                    "for"
+                ]
+            },
+            {
+                "title": "Bibliography",
+                "page": 242,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "demand",
+                    "for",
+                    "planter",
+                    "and harvester"
+                ]
+            },
+            {
+                "title": "Case Study",
+                "page": 242,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "demand",
+                    "for",
+                    "planter",
+                    "and harvester"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "supply chain",
+            "the",
+            "aggregate planning",
+            "planning",
+            "demand"
+        ]
+    },
+    {
+        "title": "Sales and Operations Planning",
+        "page": 244,
+        "subsections": [
+            {
+                "title": "Planning Supply and Demand in a Supply Chain",
+                "page": 244,
+                "subsections": [
+                    {
+                        "title": "Discussion Questions",
+                        "page": 255,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "supply chain",
+                            "demand",
+                            "for",
+                            "jumbo"
+                        ]
+                    },
+                    {
+                        "title": "Exercises",
+                        "page": 255,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "supply chain",
+                            "demand",
+                            "for",
+                            "jumbo"
+                        ]
+                    },
+                    {
+                        "title": "Bibliography",
+                        "page": 257,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "demand",
+                            "for",
+                            "month"
+                        ]
+                    },
+                    {
+                        "title": "Case Study",
+                        "page": 258,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "demand",
+                            "cost",
+                            "for",
+                            "supply chain"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "demand",
+                    "predictable variability",
+                    "that"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "supply chain",
+            "the",
+            "demand",
+            "predictable variability",
+            "that"
+        ]
+    },
+    {
+        "title": "Coordination in a Supply",
+        "page": 261,
+        "subsections": [],
+        "micro_temas": [
+            "supply chain",
+            "the supply",
+            "and",
+            "coordination",
+            "that"
+        ]
+    },
+    {
+        "title": "Chain",
+        "page": 261,
+        "subsections": [
+            {
+                "title": "Discussion Questions",
+                "page": 280,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "and",
+                    "lot",
+                    "chain management"
+                ]
+            },
+            {
+                "title": "Bibliography",
+                "page": 280,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "and",
+                    "lot",
+                    "chain management"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "supply chain",
+            "the supply",
+            "and",
+            "coordination",
+            "that"
+        ]
+    },
+    {
+        "title": "Managing Economies of Scale in a Supply Chain",
+        "page": 281,
+        "subsections": [
+            {
+                "title": "Cycle Inventory",
+                "page": 281,
+                "subsections": [
+                    {
+                        "title": "Group of",
+                        "page": 318,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "cost",
+                            "size and",
+                            "cycle inventory"
+                        ]
+                    },
+                    {
+                        "title": "Customers",
+                        "page": 318,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "cost",
+                            "size and",
+                            "cycle inventory"
+                        ]
+                    },
+                    {
+                        "title": "Stage",
+                        "page": 318,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "cost",
+                            "size and",
+                            "cycle inventory"
+                        ]
+                    },
+                    {
+                        "title": "Discussion Questions",
+                        "page": 319,
+                        "subsections": [],
+                        "micro_temas": [
+                            "what the",
+                            "holding cost",
+                            "supply chain",
+                            "and",
+                            "for"
+                        ]
+                    },
+                    {
+                        "title": "Exercises",
+                        "page": 319,
+                        "subsections": [],
+                        "micro_temas": [
+                            "what the",
+                            "holding cost",
+                            "supply chain",
+                            "and",
+                            "for"
+                        ]
+                    },
+                    {
+                        "title": "Bibliography",
+                        "page": 322,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "and",
+                            "supply chain",
+                            "holding cost",
+                            "for"
+                        ]
+                    },
+                    {
+                        "title": "Case Study",
+                        "page": 323,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "and",
+                            "customer",
+                            "moonchem"
+                        ]
+                    },
+                    {
+                        "title": "APPENDIX 11A",
+                        "page": 326,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "supply chain",
+                            "cost",
+                            "safety inventory",
+                            "safety"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "supply chain",
+                    "the",
+                    "cycle inventory",
+                    "lot size",
+                    "cycle"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "supply chain",
+            "the",
+            "cycle inventory",
+            "lot size",
+            "cycle"
+        ]
+    },
+    {
+        "title": "Managing Uncertainty in a Supply Chain",
+        "page": 327,
+        "subsections": [
+            {
+                "title": "Safety Inventory",
+                "page": 327,
+                "subsections": [
+                    {
+                        "title": "Discussion Questions",
+                        "page": 362,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "lead time",
+                            "safety inventory",
+                            "supply chain",
+                            "demand"
+                        ]
+                    },
+                    {
+                        "title": "Exercises",
+                        "page": 362,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "lead time",
+                            "safety inventory",
+                            "supply chain",
+                            "demand"
+                        ]
+                    },
+                    {
+                        "title": "Bibliography",
+                        "page": 366,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "and",
+                            "for",
+                            "product"
+                        ]
+                    },
+                    {
+                        "title": "Case Study",
+                        "page": 366,
+                        "subsections": [],
+                        "micro_temas": [
+                            "supply chain",
+                            "the",
+                            "and",
+                            "for",
+                            "product"
+                        ]
+                    },
+                    {
+                        "title": "APPENDIX 12A",
+                        "page": 370,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "normal distribution",
+                            "supply chain",
+                            "standard normal",
+                            "density function"
+                        ]
+                    },
+                    {
+                        "title": "APPENDIX 12B",
+                        "page": 371,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "lead time",
+                            "supply chain",
+                            "normal distribution",
+                            "esc"
+                        ]
+                    },
+                    {
+                        "title": "APPENDIX 12C",
+                        "page": 371,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "lead time",
+                            "supply chain",
+                            "normal distribution",
+                            "esc"
+                        ]
+                    },
+                    {
+                        "title": "APPENDIX 12D",
+                        "page": 372,
+                        "subsections": [],
+                        "micro_temas": [
+                            "the",
+                            "lead time",
+                            "supply chain",
+                            "demand",
+                            "for"
+                        ]
+                    }
+                ],
+                "micro_temas": [
+                    "the store",
+                    "supply chain",
+                    "safety inventory",
+                    "safety",
+                    "product availability"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "the store",
+            "supply chain",
+            "safety inventory",
+            "safety",
+            "product availability"
+        ]
+    },
+    {
+        "title": "Determining the Optimal",
+        "page": 374,
+        "subsections": [],
+        "micro_temas": [
+            "supply chain",
+            "the optimal",
+            "level product",
+            "product availability",
+            "availability"
+        ]
+    },
+    {
+        "title": "Level of Product Availability",
+        "page": 374,
+        "subsections": [
+            {
+                "title": "Discussion Questions",
+                "page": 403,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "for",
+                    "demand",
+                    "stock",
+                    "cost"
+                ]
+            },
+            {
+                "title": "Exercises",
+                "page": 403,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "for",
+                    "demand",
+                    "stock",
+                    "cost"
+                ]
+            },
+            {
+                "title": "Bibliography",
+                "page": 405,
+                "subsections": [],
+                "micro_temas": [
+                    "the season",
+                    "and",
+                    "for",
+                    "season",
+                    "stock"
+                ]
+            },
+            {
+                "title": "Case Study appendix 13a appendix 13B appendix 13C appendix 13D appendix 13E appendix 13F",
+                "page": 406,
+                "subsections": [],
+                "micro_temas": [
+                    "the season",
+                    "demand",
+                    "stock",
+                    "for",
+                    "season"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "supply chain",
+            "the optimal",
+            "level product",
+            "product availability",
+            "availability"
+        ]
+    },
+    {
+        "title": "Transportation in a Supply",
+        "page": 413,
+        "subsections": [],
+        "micro_temas": [
+            "supply chain",
+            "the",
+            "transportation",
+            "and",
+            "product"
+        ]
+    },
+    {
+        "title": "Chain",
+        "page": 413,
+        "subsections": [
+            {
+                "title": "Discussion Questions",
+                "page": 442,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "supply chain",
+                    "transportation",
+                    "cost"
+                ]
+            },
+            {
+                "title": "Bibliography",
+                "page": 442,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "supply chain",
+                    "transportation",
+                    "cost"
+                ]
+            },
+            {
+                "title": "Case Study",
+                "page": 443,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "sameday delivery",
+                    "for",
+                    "sameday"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "supply chain",
+            "the",
+            "transportation",
+            "and",
+            "product"
+        ]
+    },
+    {
+        "title": "Sourcing Decisions in a Supply Chain",
+        "page": 446,
+        "subsections": [
+            {
+                "title": "Discussion Questions",
+                "page": 478,
+                "subsections": [],
+                "micro_temas": [
+                    "the retailer",
+                    "supply chain",
+                    "and",
+                    "for",
+                    "lead time"
+                ]
+            },
+            {
+                "title": "Exercises",
+                "page": 478,
+                "subsections": [],
+                "micro_temas": [
+                    "the retailer",
+                    "supply chain",
+                    "and",
+                    "for",
+                    "lead time"
+                ]
+            },
+            {
+                "title": "Bibliography",
+                "page": 479,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "the retailer",
+                    "and",
+                    "lead time",
+                    "for"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "supply chain",
+            "the supply",
+            "outsourcing",
+            "and",
+            "that"
+        ]
+    },
+    {
+        "title": "Pricing and Revenue",
+        "page": 481,
+        "subsections": [],
+        "micro_temas": [
+            "supply chain",
+            "the",
+            "demand",
+            "revenue management",
+            "management"
+        ]
+    },
+    {
+        "title": "Management in a",
+        "page": 481,
+        "subsections": [],
+        "micro_temas": [
+            "supply chain",
+            "the",
+            "demand",
+            "revenue management",
+            "management"
+        ]
+    },
+    {
+        "title": "Supply Chain",
+        "page": 481,
+        "subsections": [
+            {
+                "title": "Discussion Questions",
+                "page": 501,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "demand",
+                    "revenue management",
+                    "revenue",
+                    "supply chain"
+                ]
+            },
+            {
+                "title": "Exercises",
+                "page": 501,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "demand",
+                    "revenue management",
+                    "revenue",
+                    "supply chain"
+                ]
+            },
+            {
+                "title": "Bibliography",
+                "page": 502,
+                "subsections": [],
+                "micro_temas": [
+                    "the",
+                    "and",
+                    "that",
+                    "supply chain",
+                    "customer"
+                ]
+            },
+            {
+                "title": "Case Study",
+                "page": 503,
+                "subsections": [],
+                "micro_temas": [
+                    "the daily",
+                    "daily deal",
+                    "customer",
+                    "groupon",
+                    "restaurant"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "supply chain",
+            "the",
+            "demand",
+            "revenue management",
+            "management"
+        ]
+    },
+    {
+        "title": "Sustainability and the",
+        "page": 505,
+        "subsections": [],
+        "micro_temas": [
+            "supply chain",
+            "the supply",
+            "and",
+            "sustainability",
+            "has"
+        ]
+    },
+    {
+        "title": "Supply Chain",
+        "page": 505,
+        "subsections": [
+            {
+                "title": "Discussion Questions",
+                "page": 521,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "and",
+                    "the",
+                    "sustainability",
+                    "that"
+                ]
+            },
+            {
+                "title": "Bibliography",
+                "page": 521,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "and",
+                    "the",
+                    "sustainability",
+                    "that"
+                ]
+            },
+            {
+                "title": "Index",
+                "page": 522,
+                "subsections": [],
+                "micro_temas": [
+                    "supply chain",
+                    "demand",
+                    "see also",
+                    "stock",
+                    "planning"
+                ]
+            }
+        ],
+        "micro_temas": [
+            "supply chain",
+            "the supply",
+            "and",
+            "sustainability",
+            "has"
+        ]
+    }
+]

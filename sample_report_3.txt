@@ -1,0 +1,35 @@
+﻿
+================================================================================
+ REPORTES EJECUTIVO : B┌SQUEDA LOG═STICA
+ T╔RMINO: 'TRANSPORTE'
+================================================================================
+
+ [PILLAR LOG═STICO]: 1. SUPPLY CHAIN STRATEGIST
+-----------------------------------------------
+   - LIBRO: Administraci¾n y logÝstica en la cadena de suministros ( etc.) (z-library.sk, 1lib.sk, z-lib.sk)
+     > [Pag 011] Contenido breve
+     > [Pag 011] PARTE UNO
+     > [Pag 011] PARTE DOS
+     > [Pag 011] PARTE TRES
+     > [Pag 011] PARTE CUATRO
+     > [Pag 011] EP═LOGO  397
+     > [Pag 011] ═NDICE  399
+     > [Pag 012] Contenido
+     > [Pag 012] PARTE UNO
+     > [Pag 013] PARTE DOS
+     > [Pag 015] PARTE TRES
+     > [Pag 015] PARTE CUATRO
+     > [Pag 024] Colaboraci¾n
+     > [Pag 024] Extensi¾n de la empresa
+     > [Pag 025] Proveedores de servicios integrados (ISP)
+     > [Pag 037] LogÝstica
+     > [Pag 038] La logÝstica de la empresa es grande e importante
+     > [Pag 041] Minimizaci¾n del costo
+     > [Pag 041] Generaci¾n del valor logÝstico
+     > [Pag 042] Funciones de la logÝstica
+     > [Pag 042] Procesamiento de pedidos
+     > [Pag 043] Inventario
+     > [Pag 044] Transporte
+     > [Pag 045] Almacenamiento, manejo de materiales y empacado
+     > [Pag 049] Disposiciones operativas logÝsticas
+     > [Pag 049] Escalonada
